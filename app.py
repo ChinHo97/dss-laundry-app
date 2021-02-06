@@ -56,7 +56,7 @@ st.title('Decision Support System')
 st.title('Group Project')
 st.title('Question 1 [Laundry Scenario]')
 st.text('Mak Chin Ho 1151100769')
-st.text('Dhevan A/L Rajandran')
+st.text('Dhevan A/L Rajandran 1161100744')
 
 
 raw_df = pd.read_csv("LAUNDRY.csv")
