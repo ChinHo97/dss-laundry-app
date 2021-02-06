@@ -1,0 +1,808 @@
+No,Date,Time,Race,Gender,Body_Size,Age_Range,With_Kids,Kids_Category,Basket_Size,Basket_colour,Attire,Shirt_Colour,shirt_type,Pants_Colour,pants_type,Wash_Item,Washer_No,Dryer_No,Spectacles
+1,19/10/2015,20:17:50,malay,,moderate,,yes,young,big,red,casual,blue,short_sleeve,black,short,clothes,3,10,no
+2,19/10/2015,20:28:42,indian,male,thin,32.0,no,no_kids,big,green,casual,,short_sleeve,blue_jeans,long,,6,9,no
+3,19/10/2015,20:58:31,malay,female,,30.0,no,no_kids,big,blue,casual,red,short_sleeve,black,long,,4,10,no
+4,19/10/2015,21:31:28,indian,male,thin,51.0,no,no_kids,,black,casual,,short_sleeve,yellow,short,clothes,5,9,no
+5,19/10/2015,21:40:28,indian,male,moderate,34.0,no,no_kids,big,blue,casual,blue,short_sleeve,white,long,clothes,3,9,no
+6,19/10/2015,23:45:38,,male,fat,50.0,no,no_kids,small,white,casual,brown,,blue_jeans,long,clothes,4,8,no
+7,19/10/2015,23:53:38,,female,fat,45.0,,no_kids,big,pink,traditional,blue,,black,long,clothes,5,10,no
+8,20/10/2015,0:24:01,indian,male,thin,49.0,no,,big,blue,casual,,short_sleeve,brown,long,clothes,3,9,no
+9,20/10/2015,0:45:19,indian,male,thin,30.0,no,no_kids,small,purple,casual,white,short_sleeve,black,short,clothes,6,10,no
+10,20/10/2015,1:17:50,chinese,male,moderate,33.0,no,no_kids,small,pink,casual,white,short_sleeve,blue_jeans,short,,5,7,no
+11,20/10/2015,3:07:16,foreigner ,female,,45.0,no,no_kids,big,red,,black,short_sleeve,grey,short,,4,8,no
+12,20/10/2015,7:23:12,,male,moderate,37.0,no,no_kids,,blue,casual,brown,short_sleeve,blue_jeans,long,,4,8,no
+13,20/10/2015,7:23:12,malay,female,moderate,,no,no_kids,big,blue,casual,blue,long sleeve,blue_jeans,long,clothes,3,7,no
+14,20/10/2015,9:06:14,malay,male,moderate,,no,no_kids,big,yellow,casual,yellow,short_sleeve,black,long,clothes,3,9,yes
+15,20/10/2015,10:05:17,malay,female,moderate,55.0,,young,big,red,casual,,long sleeve,grey,,clothes,3,8,yes
+16,20/10/2015,10:41:35,,male,thin,33.0,no,no_kids,big,brown,formal,,long sleeve,brown,long,clothes,5,9,no
+17,20/10/2015,10:49:31,malay,female,thin,55.0,yes,toddler ,,,casual,brown,long sleeve,grey,long,clothes,4,7,no
+18,20/10/2015,10:57:47,malay,male,fat,37.0,yes,toddler,big,blue,casual,grey,,grey,long,clothes,5,9,no
+19,20/10/2015,11:13:26,malay,female,fat,55.0,yes,,,blue,traditional,orange,long sleeve,orange,long,,6,7,yes
+20,20/10/2015,11:19:20,malay,female,moderate,50.0,yes,young,big,pink,casual,green,long sleeve,grey,long,clothes,5,10,no
+21,20/10/2015,11:27:26,indian,male,fat,34.0,no,no_kids,big,black,casual,red,short_sleeve,grey,long,clothes,3,10,no
+22,20/10/2015,11:27:57,,male,moderate,53.0,yes,baby,big,,formal,red,long sleeve,black,long,clothes,5,9,no
+23,20/10/2015,11:28:43,malay,female,fat,38.0,yes,young,big,white,casual,red,,blue  ,long,blankets,3,7,no
+24,20/10/2015,13:36:46,chinese,female,thin,29.0,no,,small,white,casual,,short_sleeve,black ,long,blankets,3,7,yes
+25,20/10/2015,12:10:46,chinese,female,moderate,44.0,no,no_kids,big,white,casual,black,short_sleeve,black,long,clothes,5,7,no
+26,20/10/2015,13:44:03,chinese,female,moderate,42.0,no,no_kids,small,orange,casual,black,short_sleeve,black,,clothes,3,8,no
+27,20/10/2015,13:47:46,chinese,male,,41.0,no,no_kids,big,white,,black,,brown,long,clothes,6,9,no
+28,20/10/2015,14:39:57,chinese,male,thin,36.0,yes,young,big,,,grey,,white,short,blankets,5,9,yes
+29,20/10/2015,14:54:19,indian,male,fat,39.0,no,no_kids,big,blue,,black,,blue_jeans,,clothes,4,10,no
+30,20/10/2015,14:54:19,indian,male,thin,42.0,no,no_kids,big,,,black,short_sleeve,blue_jeans,long,,6,9,no
+31,20/10/2015,15:26:05,malay,,fat,32.0,no,no_kids,big,purple,,purple,long sleeve,black,long,clothes,3,7,no
+32,20/10/2015,15:45:51,chinese,,thin,40.0,yes,toddler,big,,casual,white,short_sleeve,white,short,clothes,5,9,yes
+33,20/10/2015,15:52:41,foreigner ,male,moderate,,no,no_kids,big,blue,casual,black,short_sleeve,black,long,clothes,3,8,no
+34,20/10/2015,16:01:30,malay,female,fat,55.0,,no_kids,big,purple,casual,purple,long sleeve,black,long,clothes,3,7,no
+35,20/10/2015,16:34:06,chinese,male,thin,46.0,no,no_kids,big,red,casual,,short_sleeve,black,,clothes,4,7,no
+36,20/10/2015,18:14:37,malay,female,thin,46.0,no,no_kids,small,white,casual,white,short_sleeve,grey,,clothes,6,10,no
+37,20/10/2015,18:34:26,malay,male,fat,,no,no_kids,big,blue,formal,white,short_sleeve,brown,,clothes,4,7,yes
+38,20/10/2015,18:37:46,chinese,female,thin,35.0,,no_kids,small,green,casual,grey,short_sleeve,grey,short,clothes,5,9,no
+39,20/10/2015,18:48:34,malay,female,thin,41.0,no,,,red,formal,orange,long sleeve,black,long,clothes,5,10,no
+40,20/10/2015,18:57:46,malay,,,31.0,no,no_kids,big,red,traditional,green,long sleeve,green,long,,4,9,yes
+41,20/10/2015,18:57:46,malay,female,fat,34.0,no,no_kids,big,red,traditional,brown,long sleeve,brown,long,clothes,5,9,no
+42,20/10/2015,20:09:18,malay,female,fat,36.0,no,no_kids,big,blue,casual,grey,long sleeve,black,long,blankets,4,8,no
+43,20/10/2015,20:21:03,malay,male,thin,33.0,no,,big,red,casual,black,short_sleeve,blue_jeans,long,clothes,4,10,yes
+44,20/10/2015,20:21:03,malay,female,,51.0,no,no_kids,big,,casual,blue,short_sleeve,red,long,,6,9,no
+45,20/10/2015,20:21:03,,female,moderate,46.0,no,no_kids,big,blue,formal,grey,long sleeve,black,long,blankets,3,7,no
+46,20/10/2015,20:32:37,malay,,moderate,51.0,no,no_kids,big,black,casual,red,long sleeve,red,long,,6,8,no
+47,20/10/2015,20:44:46,indian,male,fat,48.0,no,no_kids,big,purple,casual,red,short_sleeve,black,short,clothes,5,7,no
+48,20/10/2015,20:48:32,malay,female,fat,28.0,no,no_kids,big,blue,casual,,long sleeve,brown,long,,3,9,yes
+49,20/10/2015,21:39:30,,male,,49.0,no,no_kids,big,red,casual,black,short_sleeve,blue,short,clothes,4,8,no
+50,20/10/2015,21:44:10,indian,male,fat,48.0,no,no_kids,big,red,casual,,short_sleeve,blue,short,clothes,5,10,no
+51,20/10/2015,21:05:59,malay,female,fat,42.0,yes,toddler,big,orange,casual,black,short_sleeve,black,long,blankets,5,9,no
+52,20/10/2015,22:04:52,indian,female,fat,42.0,no,no_kids,small,white,traditional,red,short_sleeve,black,long,clothes,5,7,no
+53,20/10/2015,22:04:52,foreigner ,male,moderate,54.0,no,no_kids,big,white,casual,white,short_sleeve,black,long,clothes,3,9,no
+54,20/10/2015,22:10:28,foreigner ,male,thin,38.0,no,,big,yellow,casual,white,short_sleeve,black,long,clothes,3,8,no
+55,20/10/2015,22:12:39,chinese,female,thin,39.0,no,no_kids,big,,casual,blue,long sleeve,yellow,short,clothes,6,7,no
+56,20/10/2015,22:18:01,malay,male,thin,53.0,yes,young,big,white,formal,brown,long sleeve,blue,long,clothes,6,8,no
+57,20/10/2015,22:20:42,malay,male,thin,29.0,yes,toddler,big,black,casual,white,short_sleeve,blue_jeans,long,clothes,3,10,no
+58,20/10/2015,22:24:54,indian,male,fat,43.0,no,no_kids,big,blue,casual,white,short_sleeve,black,long,clothes,6,10,no
+59,20/10/2015,22:24:54,indian,female,fat,29.0,yes,young,small,white,traditional,brown,short_sleeve,blue,long,clothes,5,8,no
+60,20/10/2015,22:37:12,malay,female,thin,50.0,yes,toddler,,black,casual,grey,short_sleeve,grey,long,clothes,3,8,no
+61,20/10/2015,22:52:52,malay,,,51.0,no,no_kids,small,,casual,black,short_sleeve,grey,long,clothes,3,9,no
+62,20/10/2015,22:54:56,malay,male,thin,28.0,yes,toddler,big,,casual,white,short_sleeve,blue_jeans,long,clothes,4,10,no
+63,20/10/2015,22:59:55,indian,female,moderate,55.0,yes,baby,big,white,casual,blue,short_sleeve,brown,short,clothes,3,9,no
+64,20/10/2015,23:08:44,indian,male,thin,33.0,no,no_kids,small,yellow,casual,,short_sleeve,black,long,blankets,5,10,no
+65,20/10/2015,23:08:44,indian,male,moderate,49.0,no,no_kids,small,white,formal,blue,long sleeve,black,,,6,10,yes
+66,20/10/2015,23:15:42,malay,male,thin,42.0,,no_kids,small,red,casual,brown,long sleeve,blue,long,blankets,4,8,no
+67,20/10/2015,0:04:56,malay,female,moderate,45.0,no,no_kids,big,pink,formal,red,long sleeve,black,long,blankets,3,7,no
+68,21/10/2015,2:17:42,indian,male,thin,30.0,no,no_kids,small,white,casual,black,short_sleeve,white,short,clothes,6,7,no
+69,21/10/2015,7:35:52,indian,,fat,44.0,no,no_kids,small,blue,casual,blue,short_sleeve,white,,clothes,4,8,no
+70,21/10/2015,7:58:48,chinese,,,54.0,no,no_kids,big,red,casual,blue,short_sleeve,brown,long,clothes,3,7,no
+71,21/10/2015,11:21:04,chinese,,thin,43.0,no,no_kids,big,yellow,casual,grey,short_sleeve,white,long,clothes,3,8,no
+72,21/10/2015,11:56:35,malay,male,,32.0,no,,big,blue,casual,,short_sleeve,blue_jeans,,clothes,4,8,yes
+73,21/10/2015,11:56:35,malay,male,moderate,29.0,no,,big,red,casual,grey,short_sleeve,brown,long,clothes,5,8,no
+74,21/10/2015,12:01:57,chinese,male,thin,40.0,,,small,white,casual,red,short_sleeve,blue,long,clothes,3,9,yes
+75,21/10/2015,12:01:57,chinese,,,31.0,no,,big,white,casual,black,short_sleeve,grey,long,,5,8,no
+76,21/10/2015,12:32:17,malay,,thin,31.0,no,no_kids,big,red,casual,blue,long sleeve,black,,clothes,5,10,no
+77,21/10/2015,12:44:01,chinese,male,thin,54.0,no,no_kids,,white,casual,red,short_sleeve,black,long,clothes,3,8,no
+78,21/10/2015,13:04:37,malay,female,thin,,no,no_kids,big,red,casual,,long sleeve,black,,clothes,6,10,no
+79,21/10/2015,13:04:37,malay,male,moderate,54.0,,no_kids,small,white,casual,green,short_sleeve,blue_jeans,long,clothes,5,7,no
+80,21/10/2015,14:18:47,chinese,female,fat,45.0,no,no_kids,big,blue,casual,grey,long sleeve,white,long,clothes,3,10,yes
+81,21/10/2015,14:30:07,malay,male,fat,38.0,yes,toddler,big,white,casual,grey,short_sleeve,black,long,clothes,3,7,no
+82,21/10/2015,14:32:50,malay,female,moderate,48.0,yes,young,big,blue,traditional,green,long sleeve,white,long,clothes,5,9,yes
+83,21/10/2015,14:51:37,chinese,female,thin,,no,no_kids,,black,casual,red,short_sleeve,brown,,clothes,3,9,no
+84,21/10/2015,15:05:32,,female,moderate,42.0,yes,toddler,big,blue,traditional,purple,long sleeve,purple,long,blankets,4,8,no
+85,21/10/2015,16:53:36,chinese,male,moderate,53.0,no,no_kids,,white,casual,,short_sleeve,yellow,short,clothes,4,9,no
+86,21/10/2015,19:35:17,malay,female,fat,,,no_kids,big,blue,traditional,brown,long sleeve,brown,long,clothes,6,8,no
+87,21/10/2015,19:35:17,malay,female,,53.0,no,no_kids,,white,traditional,purple,long sleeve,purple,long,clothes,4,7,yes
+88,21/10/2015,19:35:17,indian,male,,49.0,no,no_kids,,black,casual,black,short_sleeve,blue_jeans,long,clothes,3,7,no
+89,21/10/2015,21:13:41,malay,male,thin,52.0,no,no_kids,big,black,traditional,brown,long sleeve,brown,long,clothes,6,10,no
+90,21/10/2015,21:13:41,malay,male,thin,32.0,no,no_kids,big,white,casual,black,short_sleeve,black,long,clothes,6,8,no
+91,21/10/2015,21:13:41,chinese,male,moderate,34.0,no,no_kids,big,blue,casual,blue,short_sleeve,red,short,clothes,5,9,yes
+92,21/10/2015,21:13:41,indian,male,thin,,no,no_kids,big,white,formal,white,long sleeve,black,long,clothes,3,7,no
+93,22/10/2015,7:31:47,malay,female,moderate,49.0,no,no_kids,big,yellow,traditional,white,long sleeve,white,long,clothes,4,8,no
+94,22/10/2015,9:19:35,malay,,fat,33.0,no,no_kids,big,white,traditional,blue,long sleeve,black,,clothes,5,7,no
+95,22/10/2015,9:19:35,malay,female,moderate,55.0,no,no_kids,big,blue,formal,grey,long sleeve,black,long,clothes,4,8,no
+96,22/10/2015,9:48:38,chinese,female,thin,,no,no_kids,big,blue,casual,pink,short_sleeve,black,long,blankets,4,7,no
+97,22/10/2015,10:08:57,malay,male,moderate,55.0,no,no_kids,big,,casual,,short_sleeve,yellow,long,clothes,3,8,yes
+98,22/10/2015,10:50:38,malay,female,thin,49.0,no,no_kids,big,blue,casual,brown,long sleeve,black,long,clothes,5,9,no
+99,22/10/2015,10:50:38,malay,,thin,46.0,no,no_kids,big,black,casual,red,short_sleeve,white,long,clothes,3,8,yes
+100,22/10/2015,13:14:43,foreigner ,female,moderate,41.0,no,no_kids,big,white,casual,white,short_sleeve,white,long,,5,10,no
+101,22/10/2015,13:17:51,malay,female,fat,53.0,no,no_kids,big,blue,formal,pink,long sleeve,black,,clothes,3,7,no
+102,22/10/2015,13:17:51,malay,male,fat,41.0,,no_kids,big,green,casual,green,short_sleeve,black,long,clothes,3,10,no
+103,22/10/2015,14:38:23,malay,male,moderate,55.0,no,no_kids,small,white,casual,brown,short_sleeve,grey,long,clothes,4,8,yes
+104,22/10/2015,15:10:04,malay,,,34.0,no,no_kids,small,green,casual,red,long sleeve,purple,long,clothes,4,7,no
+105,22/10/2015,15:42:25,malay,female,fat,40.0,no,no_kids,big,blue,casual,green,long sleeve,black,long,clothes,6,10,no
+106,22/10/2015,18:42:40,indian,male,fat,44.0,no,no_kids,big,white,casual,yellow,short_sleeve,grey,short,clothes,5,7,no
+107,22/10/2015,19:48:07,chinese,,thin,50.0,yes,baby,big,blue,casual,black,short_sleeve,black,long,clothes,3,10,no
+108,22/10/2015,20:23:30,foreigner ,male,moderate,54.0,no,no_kids,big,blue,casual,black,short_sleeve,black,long,clothes,3,7,no
+109,22/10/2015,20:49:14,chinese,male,thin,44.0,no,no_kids,big,black,casual,black,short_sleeve,blue_jeans,long,,5,8,no
+110,22/10/2015,22:10:13,indian,male,moderate,32.0,,no_kids,big,white,casual,green,short_sleeve,brown,short,clothes,3,9,no
+111,22/10/2015,22:52:01,chinese,female,thin,32.0,no,no_kids,big,blue,casual,white,short_sleeve,brown,short,clothes,3,9,no
+112,22/10/2015,23:18:33,indian,male,fat,47.0,no,no_kids,big,black,casual,blue,short_sleeve,black,short,clothes,6,7,no
+113,23/10/2015,1:09:08,chinese,female,fat,30.0,yes,toddler,big,red,casual,red,short_sleeve,green,,clothes,6,10,no
+114,23/10/2015,1:31:55,chinese,male,fat,31.0,no,no_kids,big,yellow,casual,brown,short_sleeve,black,long,,3,8,yes
+115,23/10/2015,1:52:36,indian,female,fat,39.0,,no_kids,big,white,casual,grey,short_sleeve,black,long,clothes,3,10,no
+116,23/10/2015,2:48:52,malay,male,fat,40.0,no,no_kids,big,,casual,blue,short_sleeve,grey,long,,5,7,no
+117,23/10/2015,4:35:37,indian,male,moderate,,no,no_kids,big,yellow,formal,white,short_sleeve,black,long,clothes,5,8,no
+118,23/10/2015,7:07:53,malay,female,fat,52.0,yes,baby,big,red,casual,white,short_sleeve,black,long,clothes,5,7,yes
+119,23/10/2015,7:31:00,malay,male,fat,33.0,no,no_kids,big,red,casual,red,long sleeve,brown,short,clothes,3,7,no
+120,23/10/2015,10:27:02,,male,thin,47.0,,no_kids,big,red,formal,white,short_sleeve,black,long,clothes,5,9,yes
+121,23/10/2015,11:14:22,malay,male,fat,53.0,yes,baby,big,,casual,red,short_sleeve,brown,,clothes,3,9,no
+122,23/10/2015,11:17:03,malay,female,moderate,53.0,yes,toddler,big,,formal,pink,long sleeve,black,,clothes,4,7,no
+123,23/10/2015,11:54:36,indian,male,moderate,40.0,no,no_kids,small,green,formal,white,short_sleeve,black,,clothes,3,9,no
+124,23/10/2015,11:59:37,malay,male,moderate,40.0,no,no_kids,big,,formal,,short_sleeve,grey,long,clothes,4,10,no
+125,23/10/2015,12:00:06,malay,,fat,52.0,no,no_kids,big,blue,,black,long sleeve,black,long,clothes,6,10,no
+126,23/10/2015,12:00:06,indian,,fat,,no,no_kids,big,white,casual,black,short_sleeve,grey,,,4,10,no
+127,23/10/2015,12:00:06,malay,male,fat,28.0,,no_kids,big,,casual,black,short_sleeve,black,long,clothes,3,8,no
+128,23/10/2015,12:01:53,,male,thin,44.0,no,no_kids,big,,,black,short_sleeve,red,short,,4,8,yes
+129,23/10/2015,12:23:32,malay,female,thin,52.0,no,no_kids,big,blue,casual,blue,,blue,short,,5,8,no
+130,23/10/2015,12:57:44,malay,female,fat,39.0,no,no_kids,big,,casual,black,short_sleeve,black,long,,6,8,no
+131,23/10/2015,15:17:25,malay,female,thin,31.0,no,no_kids,big,white,casual,red,short_sleeve,blue_jeans,long,clothes,3,7,no
+132,23/10/2015,16:06:01,foreigner ,,,31.0,no,no_kids,big,white,formal,grey,,grey,long,clothes,6,9,no
+133,23/10/2015,16:06:01,,female,,40.0,,no_kids,big,grey,casual,grey,long sleeve,black,,clothes,4,9,no
+134,23/10/2015,16:11:32,malay,female,thin,28.0,yes,baby,big,white,casual,blue,,black,long,blankets,4,9,no
+135,23/10/2015,16:33:34,malay,female,moderate,41.0,no,no_kids,big,green,traditional,blue,long sleeve,blue,long,clothes,4,7,yes
+136,23/10/2015,17:31:48,malay,,,41.0,yes,toddler,big,white,casual,red,short_sleeve,blue_jeans,long,clothes,6,10,no
+137,23/10/2015,17:31:48,malay,,fat,49.0,no,no_kids,big,blue,casual,brown,short_sleeve,white,long,clothes,5,9,no
+138,23/10/2015,19:47:39,chinese,female,,30.0,no,no_kids,,white,casual,green,short_sleeve,black,long,clothes,6,7,no
+139,23/10/2015,19:55:14,chinese,male,moderate,48.0,,no_kids,,blue,casual,white,short_sleeve,black,,clothes,3,9,no
+140,23/10/2015,20:08:58,chinese,,moderate,34.0,,no_kids,,white,casual,,short_sleeve,blue_jeans,long,,5,7,no
+141,23/10/2015,20:39:42,foreigner ,male,thin,45.0,no,no_kids,big,brown,casual,red,,grey,long,clothes,6,9,no
+142,23/10/2015,21:18:54,foreigner ,female,thin,,,young,big,blue,casual,black,short_sleeve,black,long,clothes,3,9,no
+143,23/10/2015,21:51:00,malay,female,,48.0,yes,toddler,big,red,casual,,long sleeve,black,long,,4,7,no
+144,23/10/2015,22:31:34,indian,female,,40.0,yes,young,big,red,casual,purple,short_sleeve,black,,clothes,4,10,no
+145,23/10/2015,22:58:27,chinese,,thin,42.0,no,no_kids,big,blue,casual,,short_sleeve,brown,long,clothes,5,9,yes
+146,23/10/2015,23:38:01,malay,male,fat,,,no_kids,big,blue,casual,blue,short_sleeve,black,long,clothes,3,7,no
+147,24/10/2015,0:18:48,chinese,male,fat,36.0,no,no_kids,big,red,casual,blue,short_sleeve,green,short,clothes,3,9,yes
+148,24/10/2015,0:38:01,malay,,thin,28.0,yes,baby,big,blue,casual,red,short_sleeve,grey,long,clothes,3,9,no
+149,24/10/2015,1:31:38,malay,male,fat,53.0,no,no_kids,big,red,casual,white,short_sleeve,black,long,,3,7,yes
+150,24/10/2015,6:44:22,malay,male,thin,,no,no_kids,big,red,casual,yellow,,black,,clothes,4,7,yes
+151,24/10/2015,6:56:49,chinese,female,moderate,39.0,no,no_kids,big,red,casual,,short_sleeve,black,long,,6,9,no
+152,24/10/2015,8:51:44,,male,fat,40.0,no,no_kids,big,black,casual,white,long sleeve,brown,,clothes,4,10,no
+153,24/10/2015,9:07:33,indian,female,thin,41.0,no,no_kids,big,green,casual,brown,short_sleeve,grey,long,,6,9,no
+154,24/10/2015,9:22:05,malay,female,thin,50.0,no,no_kids,,red,casual,brown,long sleeve,brown,long,blankets,3,7,no
+155,24/10/2015,9:23:10,malay,female,,48.0,no,no_kids,big,red,casual,red,long sleeve,brown,long,clothes,6,9,no
+156,24/10/2015,9:23:10,,female,thin,42.0,,no_kids,big,red,casual,green,long sleeve,red,long,clothes,6,8,no
+157,24/10/2015,9:24:29,malay,male,,51.0,,no_kids,small,white,casual,blue,,black,long,,6,10,no
+158,24/10/2015,10:30:48,chinese,female,thin,54.0,no,no_kids,big,red,casual,,short_sleeve,brown,short,,6,9,no
+159,24/10/2015,10:30:48,malay,male,thin,50.0,yes,toddler,big,black,casual,black,short_sleeve,blue,long,clothes,4,10,no
+160,24/10/2015,10:47:32,,female,fat,44.0,no,no_kids,big,blue,casual,,long sleeve,black,long,clothes,5,8,no
+161,24/10/2015,10:59:09,malay,,fat,41.0,no,no_kids,big,blue,casual,,short_sleeve,black,,clothes,4,9,no
+162,24/10/2015,11:12:18,malay,female,moderate,,yes,young,big,red,casual,black,short_sleeve,red,long,,4,7,no
+163,24/10/2015,11:32:11,malay,male,fat,41.0,yes,young,big,blue,casual,orange,short_sleeve,grey,short,clothes,6,10,no
+164,24/10/2015,11:34:26,indian,female,,37.0,no,no_kids,big,red,casual,grey,short_sleeve,brown,short,,6,7,no
+165,24/10/2015,12:00:51,indian,,fat,35.0,no,no_kids,big,black,casual,blue,,black,long,,3,7,no
+166,24/10/2015,12:14:54,chinese,male,thin,53.0,yes,baby,big,blue,casual,black,short_sleeve,grey,long,blankets,6,7,yes
+167,24/10/2015,12:37:44,chinese,male,moderate,53.0,no,,small,white,casual,red,short_sleeve,brown,short,clothes,6,10,no
+168,24/10/2015,13:05:01,chinese,male,thin,51.0,no,no_kids,big,black,casual,red,short_sleeve,blue_jeans,long,clothes,6,7,no
+169,24/10/2015,13:30:48,malay,female,,32.0,no,no_kids,big,red,casual,blue,short_sleeve,brown,long,clothes,4,8,yes
+170,24/10/2015,13:37:15,malay,female,thin,52.0,no,no_kids,big,,casual,red,short_sleeve,black,long,clothes,5,9,no
+171,24/10/2015,13:37:15,malay,,,50.0,no,no_kids,big,white,casual,green,long sleeve,white,long,,4,8,no
+172,24/10/2015,14:07:01,malay,male,moderate,31.0,no,no_kids,big,red,casual,brown,short_sleeve,white,long,clothes,4,10,no
+173,24/10/2015,14:28:38,indian,female,,54.0,no,no_kids,small,white,casual,,short_sleeve,black,long,clothes,5,10,no
+174,24/10/2015,14:39:02,foreigner ,male,thin,47.0,no,,,,casual,blue,short_sleeve,black,,clothes,6,7,no
+175,24/10/2015,14:51:31,chinese,male,,39.0,no,no_kids,big,black,casual,red,,black,short,,3,9,yes
+176,24/10/2015,14:55:41,,female,thin,50.0,,no_kids,big,black,casual,,short_sleeve,black,long,clothes,4,8,no
+177,24/10/2015,15:01:59,indian,male,fat,34.0,no,no_kids,,,formal,orange,long sleeve,black,long,blankets,4,7,yes
+178,24/10/2015,15:20:20,malay,female,thin,47.0,no,no_kids,big,blue,casual,blue,,brown,long,blankets,6,8,no
+179,24/10/2015,15:30:07,malay,male,fat,40.0,no,no_kids,big,blue,casual,black,short_sleeve,blue_jeans,long,clothes,5,10,no
+180,24/10/2015,15:30:07,chinese,female,thin,51.0,no,no_kids,big,red,,white,short_sleeve,black,long,clothes,3,8,no
+181,24/10/2015,15:30:07,chinese,male,moderate,37.0,no,no_kids,big,white,casual,black,short_sleeve,,long,clothes,4,7,yes
+182,24/10/2015,17:07:48,,female,,40.0,,no_kids,big,,formal,red,long sleeve,blue_jeans,,clothes,5,10,no
+183,24/10/2015,17:07:48,,female,thin,54.0,yes,young,big,red,casual,white,short_sleeve,black,long,clothes,5,7,no
+184,24/10/2015,17:32:53,indian,female,moderate,35.0,no,,,black,casual,grey,short_sleeve,blue_jeans,short,,6,10,no
+185,24/10/2015,18:56:36,indian,female,moderate,49.0,,no_kids,big,blue,,,short_sleeve,blue_jeans,long,clothes,3,7,no
+186,24/10/2015,19:02:34,indian,female,thin,39.0,no,no_kids,,black,casual,white,long sleeve,black,long,blankets,5,10,yes
+187,24/10/2015,19:39:23,malay,male,thin,41.0,no,no_kids,big,,casual,red,short_sleeve,black,long,clothes,3,7,yes
+188,24/10/2015,19:39:23,chinese,female,moderate,40.0,no,no_kids,big,,,black,short_sleeve,white,long,clothes,4,10,no
+189,24/10/2015,20:03:39,malay,male,thin,41.0,no,no_kids,big,blue,casual,black,short_sleeve,blue_jeans,long,blankets,4,9,no
+190,24/10/2015,20:07:19,chinese,female,thin,51.0,,,big,blue,casual,black,short_sleeve,white,long,clothes,4,8,no
+191,24/10/2015,20:59:01,malay,,fat,29.0,no,no_kids,big,pink,casual,grey,long sleeve,blue,long,clothes,3,8,yes
+192,24/10/2015,20:59:01,malay,female,fat,45.0,no,no_kids,big,black,,blue,short_sleeve,black,long,clothes,5,7,no
+193,24/10/2015,20:59:01,malay,female,fat,54.0,no,,big,white,casual,blue,short_sleeve,brown,long,clothes,3,7,yes
+194,24/10/2015,21:06:04,indian,male,thin,45.0,no,,big,white,casual,red,short_sleeve,green,long,clothes,6,9,no
+195,24/10/2015,21:12:32,malay,female,fat,39.0,no,no_kids,big,grey,,red,long sleeve,grey,long,,6,9,no
+196,24/10/2015,21:12:32,malay,female,thin,53.0,no,no_kids,,black,casual,grey,short_sleeve,brown,,clothes,5,8,yes
+197,24/10/2015,21:45:54,malay,female,thin,37.0,no,,big,blue,casual,red,long sleeve,grey,long,clothes,4,8,no
+198,24/10/2015,21:45:54,malay,male,fat,50.0,no,no_kids,big,blue,casual,black,,black,long,clothes,3,7,yes
+199,24/10/2015,23:32:46,chinese,female,thin,34.0,no,,big,,formal,white,short_sleeve,blue,long,clothes,6,8,no
+200,24/10/2015,23:40:46,indian,male,thin,46.0,no,no_kids,big,blue,,blue,short_sleeve,brown,short,,4,10,no
+201,24/10/2015,23:47:35,chinese,male,thin,33.0,no,no_kids,,black,casual,,short_sleeve,blue_jeans,short,clothes,3,8,no
+202,25/10/2015,0:08:09,malay,male,fat,,no,no_kids,big,black,casual,red,short_sleeve,black,long,blankets,4,7,no
+203,25/10/2015,0:11:08,malay,male,fat,50.0,no,no_kids,big,grey,,grey,short_sleeve,red,,clothes,6,10,yes
+204,25/10/2015,1:29:47,chinese,female,fat,54.0,no,no_kids,big,brown,casual,black,,black,long,,3,7,no
+205,25/10/2015,8:15:00,chinese,male,,38.0,no,,big,red,casual,white,short_sleeve,blue_jeans,long,,4,10,yes
+206,25/10/2015,8:15:00,chinese,female,thin,30.0,,no_kids,big,blue,casual,pink,short_sleeve,pink,short,clothes,3,10,yes
+207,25/10/2015,8:17:23,malay,male,fat,54.0,no,no_kids,small,red,casual,orange,short_sleeve,blue_jeans,long,clothes,4,8,yes
+208,26/10/2015,8:40:01,malay,female,moderate,47.0,no,no_kids,big,purple,casual,blue,long sleeve,black,long,clothes,6,10,yes
+209,26/10/2015,8:40:01,malay,male,thin,29.0,no,,small,red,,orange,short_sleeve,white,long,clothes,6,9,yes
+210,26/10/2015,8:40:01,malay,,fat,,no,no_kids,big,white,casual,purple,long sleeve,pink,long,clothes,5,8,no
+211,26/10/2015,8:40:01,malay,male,moderate,41.0,yes,baby,big,green,casual,black,short_sleeve,grey,long,clothes,3,9,no
+212,26/10/2015,9:15:05,indian,male,moderate,41.0,no,no_kids,big,white,casual,black,short_sleeve,blue,long,clothes,6,7,no
+213,29/10/2015,21:19:48,chinese,female,moderate,42.0,no,no_kids,small,black,casual,purple,short_sleeve,purple,long,clothes,6,8,no
+214,29/10/2015,21:28:23,,female,fat,32.0,no,no_kids,big,black,casual,red,short_sleeve,brown,short,clothes,5,10,no
+215,29/10/2015,21:28:23,malay,male,fat,35.0,no,no_kids,small,,casual,grey,long sleeve,blue_jeans,short,clothes,3,8,no
+216,29/10/2015,21:30:29,foreigner ,female,fat,45.0,no,no_kids,big,purple,casual,,short_sleeve,black,long,clothes,6,10,no
+217,29/10/2015,21:49:52,indian,,fat,35.0,yes,young,big,black,formal,pink,short_sleeve,grey,long,clothes,6,9,no
+218,29/10/2015,21:59:25,malay,female,fat,47.0,no,no_kids,big,grey,casual,black,long sleeve,white,long,clothes,4,10,no
+219,29/10/2015,21:59:25,chinese,male,fat,34.0,no,no_kids,big,black,casual,brown,short_sleeve,grey,short,clothes,6,8,no
+220,29/10/2015,21:59:25,malay,female,moderate,44.0,no,no_kids,big,white,casual,black,long sleeve,black,long,clothes,6,7,no
+221,29/10/2015,22:38:51,indian,male,fat,38.0,no,no_kids,big,red,casual,blue,short_sleeve,white,long,clothes,6,10,no
+222,30/10/2015,18:53:06,malay,male,thin,49.0,no,no_kids,big,green,formal,grey,long sleeve,black,long,clothes,5,8,no
+223,01/11/2015,6:44:39,,female,fat,47.0,no,no_kids,big,red,casual,black,short_sleeve,blue,long,clothes,4,10,no
+224,01/11/2015,7:15:46,malay,female,thin,48.0,no,no_kids,big,blue,casual,pink,long sleeve,green,long,clothes,6,10,yes
+225,01/11/2015,7:49:27,indian,male,thin,52.0,no,no_kids,big,yellow,casual,red,short_sleeve,purple,,clothes,4,8,no
+226,01/11/2015,8:07:53,malay,male,fat,29.0,yes,young,big,black,casual,,short_sleeve,blue_jeans,long,clothes,6,9,no
+227,02/11/2015,13:32:51,,male,thin,44.0,no,no_kids,,white,formal,orange,long sleeve,black,long,clothes,3,9,no
+228,02/11/2015,13:54:53,indian,male,moderate,50.0,no,no_kids,,black,casual,black,short_sleeve,black,,clothes,6,10,no
+229,02/11/2015,14:29:06,malay,female,fat,34.0,no,no_kids,big,red,casual,,short_sleeve,black,,clothes,3,7,no
+230,02/11/2015,14:40:43,malay,female,thin,53.0,no,no_kids,big,white,formal,black,long sleeve,black,long,clothes,6,7,no
+231,02/11/2015,14:50:13,malay,male,fat,47.0,no,no_kids,small,white,casual,white,short_sleeve,white,,clothes,6,8,no
+232,02/11/2015,14:50:13,malay,male,moderate,53.0,no,no_kids,big,orange,casual,black,short_sleeve,grey,long,clothes,3,7,no
+233,02/11/2015,15:15:59,indian,female,thin,,no,no_kids,big,red,casual,blue,long sleeve,black,long,clothes,4,8,no
+234,02/11/2015,15:20:26,indian,,thin,43.0,no,no_kids,big,blue,casual,black,short_sleeve,grey,long,clothes,3,7,no
+235,02/11/2015,17:19:17,malay,female,,44.0,no,no_kids,big,red,traditional,,long sleeve,white,long,clothes,6,9,yes
+236,02/11/2015,17:23:07,malay,female,fat,,no,no_kids,big,red,traditional,red,long sleeve,red,long,clothes,5,9,yes
+237,02/11/2015,17:23:07,malay,female,fat,55.0,no,no_kids,big,red,traditional,purple,long sleeve,purple,long,clothes,3,7,no
+238,02/11/2015,17:43:38,malay,female,thin,29.0,no,no_kids,big,pink,traditional,purple,long sleeve,purple,long,clothes,5,10,yes
+239,02/11/2015,17:47:23,indian,female,thin,28.0,no,no_kids,big,,casual,,short_sleeve,black,long,blankets,4,8,no
+240,02/11/2015,18:06:43,malay,male,fat,35.0,no,no_kids,big,blue,casual,black,short_sleeve,grey,long,,5,9,no
+241,02/11/2015,18:18:21,foreigner ,male,moderate,46.0,no,no_kids,big,brown,casual,green,long sleeve,blue_jeans,long,clothes,6,7,no
+242,02/11/2015,18:39:35,indian,male,thin,50.0,no,no_kids,big,red,casual,orange,short_sleeve,black,,clothes,5,7,no
+243,02/11/2015,18:39:35,malay,female,thin,33.0,no,no_kids,small,pink,traditional,,long sleeve,purple,long,clothes,3,10,no
+244,02/11/2015,19:00:24,malay,,moderate,34.0,no,no_kids,big,black,casual,blue,long sleeve,black,long,clothes,6,7,no
+245,02/11/2015,19:02:13,malay,male,fat,40.0,no,no_kids,big,blue,casual,black,short_sleeve,grey,long,clothes,5,9,no
+246,02/11/2015,19:00:14,malay,female,fat,33.0,no,no_kids,big,blue,casual,,long sleeve,grey,long,clothes,3,7,no
+247,02/11/2015,19:14:08,indian,female,moderate,52.0,no,no_kids,big,,casual,orange,short_sleeve,black,short,clothes,5,8,no
+248,02/11/2015,19:14:08,chinese,male,fat,54.0,no,no_kids,big,blue,casual,,short_sleeve,white,short,clothes,3,7,no
+249,02/11/2015,19:35:06,malay,,moderate,38.0,no,no_kids,big,blue,casual,white,short_sleeve,red,short,clothes,3,10,no
+250,02/11/2015,19:36:41,foreigner ,male,thin,,no,no_kids,small,brown,casual,grey,short_sleeve,brown,short,clothes,5,10,no
+251,02/11/2015,19:49:45,foreigner ,male,,,no,no_kids,big,green,casual,green,short_sleeve,blue_jeans,long,clothes,3,8,no
+252,02/11/2015,20:11:16,malay,male,fat,52.0,no,no_kids,big,,traditional,,long sleeve,brown,long,clothes,6,9,yes
+253,02/11/2015,20:11:16,malay,female,fat,37.0,no,no_kids,big,grey,casual,green,short_sleeve,black,long,clothes,3,9,no
+254,02/11/2015,20:43:51,malay,male,fat,41.0,no,no_kids,big,white,casual,black,short_sleeve,green,long,clothes,5,10,no
+255,02/11/2015,21:21:52,malay,male,fat,45.0,no,no_kids,big,,casual,,short_sleeve,blue,long,clothes,5,10,yes
+256,02/11/2015,21:31:46,malay,female,thin,53.0,no,no_kids,big,green,formal,white,long sleeve,black,long,clothes,5,10,no
+257,02/11/2015,21:36:02,malay,,thin,39.0,no,no_kids,big,black,casual,white,short_sleeve,black,long,blankets,4,8,yes
+258,02/11/2015,22:08:41,indian,male,moderate,32.0,no,no_kids,big,white,casual,brown,short_sleeve,grey,long,clothes,6,10,no
+259,02/11/2015,22:10:28,malay,female,thin,50.0,no,no_kids,big,pink,casual,purple,long sleeve,purple,long,clothes,3,8,yes
+260,02/11/2015,23:09:00,indian,female,thin,33.0,no,no_kids,big,white,casual,black,short_sleeve,black,long,clothes,5,9,no
+261,02/11/2015,23:12:22,indian,female,,46.0,no,no_kids,big,white,formal,purple,long sleeve,black,long,clothes,6,7,no
+262,02/11/2015,23:14:25,,female,,30.0,no,no_kids,big,white,traditional,green,short_sleeve,black,long,blankets,3,8,no
+263,03/11/2015,0:26:16,chinese,male,thin,55.0,no,no_kids,big,white,casual,blue,short_sleeve,white,short,clothes,5,10,no
+264,03/11/2015,0:34:09,indian,male,thin,30.0,no,no_kids,big,white,casual,black,short_sleeve,black,long,clothes,5,8,no
+265,03/11/2015,0:54:05,chinese,male,fat,34.0,no,no_kids,big,white,casual,yellow,short_sleeve,brown,long,clothes,5,7,yes
+266,03/11/2015,1:14:32,indian,female,fat,39.0,no,no_kids,big,blue,formal,black,long sleeve,black,long,clothes,3,10,no
+267,03/11/2015,8:09:27,chinese,female,fat,41.0,no,no_kids,big,brown,casual,orange,short_sleeve,black,long,clothes,4,10,no
+268,03/11/2015,8:51:31,,male,fat,39.0,no,no_kids,big,blue,casual,grey,short_sleeve,blue_jeans,short,clothes,4,7,yes
+269,03/11/2015,9:20:56,indian,male,moderate,35.0,no,no_kids,big,red,casual,brown,short_sleeve,blue,short,clothes,3,7,no
+270,03/11/2015,10:39:34,malay,female,thin,34.0,,no_kids,big,blue,formal,orange,long sleeve,blue,long,clothes,4,7,no
+271,03/11/2015,14:27:01,chinese,,moderate,55.0,no,no_kids,big,black,casual,brown,short_sleeve,black,,clothes,3,7,no
+272,03/11/2015,15:22:19,indian,male,moderate,47.0,no,no_kids,big,white,casual,red,short_sleeve,grey,,clothes,3,10,no
+273,03/11/2015,17:15:38,chinese,male,thin,45.0,no,no_kids,big,red,casual,red,short_sleeve,blue_jeans,short,clothes,4,8,no
+274,03/11/2015,17:51:32,malay,female,fat,31.0,no,no_kids,big,,traditional,blue,long sleeve,blue,long,clothes,4,8,no
+275,03/11/2015,18:47:12,chinese,female,thin,41.0,no,no_kids,big,orange,casual,grey,long sleeve,black,long,clothes,3,8,no
+276,03/11/2015,19:16:59,foreigner ,male,thin,42.0,no,no_kids,big,white,casual,white,short_sleeve,pink,short,clothes,6,9,no
+277,03/11/2015,19:37:38,foreigner ,,fat,36.0,no,no_kids,big,,casual,yellow,short_sleeve,black,long,clothes,5,7,no
+278,03/11/2015,19:37:38,foreigner ,female,fat,54.0,no,no_kids,big,white,casual,green,long sleeve,white,long,blankets,5,8,no
+279,03/11/2015,19:40:43,chinese,female,,44.0,no,no_kids,big,blue,casual,,short_sleeve,black,long,clothes,6,10,no
+280,03/11/2015,19:40:43,malay,female,fat,47.0,,no_kids,big,white,casual,red,short_sleeve,brown,long,clothes,5,10,no
+281,03/11/2015,19:40:43,,female,,47.0,,no_kids,big,black,casual,red,short_sleeve,black,long,clothes,3,9,no
+282,03/11/2015,20:20:31,malay,male,fat,29.0,no,no_kids,big,red,casual,purple,short_sleeve,white,short,clothes,4,8,no
+283,03/11/2015,20:22:04,malay,female,fat,41.0,no,no_kids,,,casual,green,short_sleeve,black,long,clothes,6,9,no
+284,03/11/2015,20:44:37,malay,female,thin,,no,no_kids,big,grey,casual,,short_sleeve,grey,short,clothes,6,10,no
+285,03/11/2015,21:13:30,malay,female,fat,54.0,,no_kids,big,blue,casual,black,short_sleeve,black,long,blankets,3,9,no
+286,03/11/2015,21:15:51,malay,female,fat,48.0,no,no_kids,big,black,casual,black,long sleeve,pink,short,clothes,4,8,no
+287,03/11/2015,21:15:51,chinese,female,thin,41.0,no,no_kids,big,white,casual,yellow,short_sleeve,black,short,,3,7,no
+288,03/11/2015,21:26:53,malay,male,fat,29.0,no,no_kids,big,black,casual,yellow,short_sleeve,grey,long,clothes,5,7,no
+289,03/11/2015,21:30:09,malay,male,thin,34.0,no,no_kids,big,red,casual,black,short_sleeve,grey,long,clothes,4,7,yes
+290,03/11/2015,21:32:52,malay,male,fat,29.0,yes,young,big,white,casual,yellow,short_sleeve,grey,long,clothes,5,9,no
+291,03/11/2015,21:56:30,indian,male,moderate,33.0,no,no_kids,big,red,casual,green,short_sleeve,black,long,clothes,3,10,no
+292,03/11/2015,21:58:24,malay,female,fat,43.0,yes,toddler,big,blue,casual,black,short_sleeve,grey,long,clothes,5,9,yes
+293,03/11/2015,22:32:11,,male,,32.0,no,no_kids,big,red,casual,yellow,short_sleeve,grey,long,clothes,5,8,no
+294,03/11/2015,22:33:00,malay,male,moderate,29.0,no,no_kids,big,blue,formal,white,short_sleeve,grey,long,clothes,6,8,no
+295,03/11/2015,22:33:00,malay,female,thin,48.0,yes,toddler,big,red,casual,red,short_sleeve,black,long,clothes,3,10,yes
+296,03/11/2015,22:42:30,chinese,male,,54.0,yes,young,big,,casual,grey,short_sleeve,red,long,clothes,4,8,no
+297,03/11/2015,22:42:30,malay,male,moderate,42.0,no,no_kids,big,black,casual,grey,long sleeve,green,long,clothes,3,7,no
+298,03/11/2015,23:30:29,malay,female,fat,35.0,no,no_kids,big,green,casual,red,short_sleeve,grey,long,clothes,5,7,no
+299,03/11/2015,23:30:29,malay,female,moderate,40.0,no,no_kids,,white,casual,red,short_sleeve,black,long,clothes,3,8,no
+300,03/11/2015,23:39:34,,,moderate,37.0,no,no_kids,big,red,casual,brown,short_sleeve,white,long,blankets,3,7,no
+301,03/11/2015,23:54:41,chinese,male,thin,31.0,no,no_kids,big,,casual,white,short_sleeve,grey,long,clothes,4,8,no
+302,03/11/2015,23:54:41,malay,female,thin,55.0,no,no_kids,big,,casual,white,short_sleeve,black,short,clothes,6,9,no
+303,03/11/2015,23:54:41,chinese,male,thin,40.0,no,no_kids,big,white,casual,white,short_sleeve,white,short,clothes,5,7,no
+304,04/11/2015,1:21:42,indian,male,thin,37.0,no,no_kids,big,white,casual,black,short_sleeve,blue_jeans,long,blankets,6,9,no
+305,04/11/2015,1:35:20,foreigner ,male,thin,30.0,no,no_kids,big,white,casual,grey,short_sleeve,black,,clothes,4,8,no
+306,04/11/2015,1:56:39,,male,moderate,45.0,no,no_kids,small,white,casual,black,short_sleeve,blue_jeans,long,clothes,6,10,no
+307,04/11/2015,2:39:24,foreigner ,,fat,28.0,no,no_kids,big,green,casual,grey,short_sleeve,blue_jeans,long,clothes,6,8,no
+308,04/11/2015,2:39:24,foreigner ,female,moderate,44.0,no,no_kids,big,,casual,pink,short_sleeve,grey,long,,4,9,no
+309,04/11/2015,3:59:41,indian,male,moderate,33.0,no,no_kids,big,purple,casual,white,short_sleeve,black,long,,5,10,yes
+310,04/11/2015,5:40:28,malay,male,moderate,32.0,no,no_kids,big,red,casual,white,short_sleeve,grey,,blankets,5,9,no
+311,04/11/2015,7:25:24,malay,male,thin,37.0,no,no_kids,small,white,casual,,short_sleeve,black,long,clothes,4,9,no
+312,04/11/2015,7:51:40,malay,male,moderate,39.0,no,no_kids,big,blue,casual,black,short_sleeve,black,long,clothes,6,9,no
+313,04/11/2015,8:47:54,indian,male,moderate,35.0,,no_kids,big,blue,formal,,short_sleeve,brown,long,clothes,6,9,no
+314,04/11/2015,9:12:22,indian,female,fat,36.0,no,no_kids,big,blue,traditional,red,short_sleeve,white,long,clothes,6,10,no
+315,04/11/2015,9:51:50,malay,female,thin,40.0,yes,toddler,big,blue,traditional,pink,long sleeve,pink,long,clothes,5,9,no
+316,04/11/2015,10:00:57,,female,thin,48.0,no,no_kids,big,black,casual,,short_sleeve,blue_jeans,long,clothes,6,8,no
+317,04/11/2015,10:00:57,chinese,female,thin,51.0,no,no_kids,big,blue,casual,white,short_sleeve,brown,short,clothes,4,9,no
+318,04/11/2015,10:01:50,malay,male,,28.0,yes,toddler,big,,casual,white,short_sleeve,black,short,clothes,3,7,yes
+319,04/11/2015,10:29:45,malay,male,thin,44.0,no,no_kids,big,black,formal,white,short_sleeve,black,long,clothes,3,10,no
+320,04/11/2015,11:41:09,indian,female,thin,34.0,no,no_kids,big,red,casual,green,short_sleeve,black,long,blankets,6,8,no
+321,04/11/2015,11:58:34,,male,moderate,49.0,no,no_kids,big,white,casual,white,short_sleeve,blue_jeans,long,blankets,6,9,no
+322,04/11/2015,12:06:55,indian,male,moderate,48.0,no,no_kids,big,white,formal,,short_sleeve,black,long,clothes,4,7,no
+323,04/11/2015,12:07:35,indian,male,moderate,53.0,no,no_kids,big,white,casual,white,short_sleeve,black,long,clothes,4,9,no
+324,05/11/2015,15:26:15,,male,moderate,46.0,,no_kids,big,blue,casual,green,short_sleeve,blue_jeans,long,clothes,4,7,no
+325,05/11/2015,15:38:39,indian,male,fat,,no,no_kids,big,blue,casual,purple,short_sleeve,grey,long,clothes,5,9,no
+326,05/11/2015,15:47;02,malay,,moderate,55.0,no,no_kids,big,brown,casual,red,short_sleeve,green,short,clothes,6,7,yes
+327,05/11/2015,15:52;08,malay,female,thin,37.0,no,no_kids,big,white,casual,black,long sleeve,blue,long,clothes,5,10,no
+328,15/11/2015,6:29:49,chinese,male,thin,37.0,no,no_kids,,blue,casual,black,short_sleeve,brown,long,clothes,4,7,no
+329,15/11/2015,7:09:32,indian,male,,31.0,no,no_kids,big,red,casual,green,short_sleeve,grey,long,clothes,6,7,no
+330,15/11/2015,7:27:03,foreigner ,female,moderate,42.0,no,no_kids,small,blue,traditional,red,long sleeve,red,long,clothes,6,9,no
+331,15/11/2015,7:29:00,foreigner ,female,thin,46.0,no,no_kids,big,red,traditional,,long sleeve,green,long,clothes,5,10,no
+332,15/11/2015,8:00:24,malay,male,fat,50.0,yes,young,big,white,traditional,,long sleeve,white,long,clothes,3,7,no
+333,15/11/2015,8:08:58,chinese,male,fat,51.0,yes,young,big,white,casual,red,short_sleeve,grey,long,blankets,4,9,yes
+334,15/11/2015,8:23:09,indian,male,thin,30.0,no,no_kids,big,white,casual,,short_sleeve,grey,,clothes,5,7,no
+335,15/11/2015,8:23:09,malay,male,moderate,47.0,no,no_kids,big,pink,casual,,short_sleeve,brown,long,clothes,5,8,no
+336,15/11/2015,8:39:05,foreigner ,male,moderate,33.0,no,no_kids,big,white,casual,blue,short_sleeve,grey,long,clothes,6,7,no
+337,15/11/2015,9:04:26,malay,female,moderate,29.0,yes,baby,big,pink,casual,black,short_sleeve,blue_jeans,long,clothes,4,8,no
+338,15/11/2015,9:22:56,indian,female,,54.0,no,no_kids,big,white,casual,black,short_sleeve,blue_jeans,short,clothes,3,8,no
+339,15/11/2015,9:23:33,indian,male,moderate,35.0,no,no_kids,big,green,casual,white,short_sleeve,black,short,clothes,3,8,no
+340,15/11/2015,9:38:17,malay,female,moderate,45.0,yes,toddler,big,brown,casual,black,short_sleeve,blue_jeans,long,clothes,5,9,no
+341,15/11/2015,9:58:59,chinese,male,thin,53.0,,no_kids,big,white,casual,white,short_sleeve,black,long,clothes,4,10,no
+342,15/11/2015,9:58:59,malay,female,thin,48.0,no,no_kids,big,black,casual,red,short_sleeve,black,long,clothes,3,7,no
+343,15/11/2015,10:26:01,indian,female,thin,36.0,no,no_kids,big,black,formal,red,long sleeve,black,long,blankets,3,7,no
+344,15/11/2015,10:49:03,chinese,,moderate,45.0,no,no_kids,big,red,casual,grey,short_sleeve,black,,clothes,4,9,no
+345,15/11/2015,10:53:52,chinese,male,fat,41.0,no,no_kids,,green,casual,grey,short_sleeve,brown,short,clothes,5,9,yes
+346,15/11/2015,10:58:57,malay,female,thin,54.0,yes,toddler,big,white,casual,black,long sleeve,black,long,clothes,6,8,no
+347,15/11/2015,10:58:57,indian,male,thin,35.0,no,no_kids,big,green,casual,grey,short_sleeve,grey,long,blankets,3,8,yes
+348,15/11/2015,11:25:15,indian,female,moderate,46.0,yes,young,big,red,casual,white,short_sleeve,purple,short,clothes,3,8,no
+349,15/11/2015,11:28:47,indian,female,thin,53.0,yes,baby,big,red,casual,white,short_sleeve,black,,clothes,4,8,no
+350,15/11/2015,11:32:19,malay,female,fat,38.0,no,no_kids,big,red,casual,white,short_sleeve,black,,clothes,6,10,no
+351,15/11/2015,11:59:28,indian,male,,39.0,no,no_kids,big,blue,casual,pink,short_sleeve,white,short,clothes,5,10,yes
+352,15/11/2015,12:00:15,malay,female,fat,32.0,yes,toddler,big,red,traditional,white,long sleeve,black,long,clothes,3,10,no
+353,15/11/2015,12:19:53,,male,moderate,37.0,no,no_kids,big,white,casual,black,short_sleeve,blue_jeans,long,clothes,6,9,no
+354,15/11/2015,12:19:53,indian,male,moderate,,no,no_kids,big,orange,casual,white,short_sleeve,grey,short,blankets,5,8,no
+355,15/11/2015,12:19:53,chinese,male,thin,53.0,no,no_kids,big,yellow,casual,black,short_sleeve,brown,,clothes,5,7,no
+356,15/11/2015,12:52:04,chinese,,thin,48.0,yes,toddler,big,yellow,casual,,short_sleeve,black,long,clothes,5,9,no
+357,15/11/2015,13:11:03,malay,male,fat,50.0,yes,young,big,white,casual,brown,short_sleeve,blue_jeans,long,blankets,4,7,no
+358,15/11/2015,13:37:39,indian,male,,53.0,no,no_kids,,blue,casual,black,short_sleeve,grey,long,clothes,4,10,no
+359,15/11/2015,13:38:37,malay,,,49.0,no,no_kids,big,,casual,purple,long sleeve,green,long,clothes,3,10,no
+360,15/11/2015,13:56:02,indian,male,thin,41.0,yes,young,big,orange,formal,red,short_sleeve,grey,long,clothes,6,10,no
+361,15/11/2015,13:56:27,indian,male,moderate,30.0,no,no_kids,big,white,casual,,short_sleeve,blue_jeans,long,blankets,5,8,yes
+362,15/11/2015,14:20:40,,female,thin,54.0,yes,baby,big,white,casual,red,short_sleeve,black,long,blankets,6,8,no
+363,15/11/2015,14:37:49,malay,male,thin,50.0,yes,young,big,blue,casual,white,short_sleeve,blue_jeans,long,,4,8,no
+364,15/11/2015,14:49:07,indian,female,,35.0,no,no_kids,big,blue,casual,blue,short_sleeve,blue,short,blankets,6,10,no
+365,15/11/2015,14:49:07,indian,female,thin,46.0,no,no_kids,big,white,casual,red,short_sleeve,black,short,clothes,4,10,no
+366,15/11/2015,14:54:24,indian,,thin,51.0,no,no_kids,big,blue,casual,black,long sleeve,brown,long,clothes,3,7,no
+367,15/11/2015,14:57:02,chinese,female,moderate,30.0,no,no_kids,big,blue,casual,white,short_sleeve,grey,long,blankets,3,7,no
+368,23/11/2015,16:05:10,malay,,moderate,,yes,young,big,,casual,pink,short_sleeve,grey,long,clothes,3,7,no
+369,23/11/2015,16:09:19,malay,female,fat,42.0,yes,young,big,green,casual,white,short_sleeve,white,long,clothes,3,8,no
+370,23/11/2015,16:35:09,malay,male,moderate,54.0,yes,toddler,big,pink,casual,blue,short_sleeve,blue_jeans,long,clothes,4,7,no
+371,23/11/2015,17:17:00,malay,female,fat,54.0,yes,young,,red,casual,brown,long sleeve,blue_jeans,long,clothes,6,10,no
+372,23/11/2015,17:34:57,indian,male,,48.0,no,no_kids,big,yellow,casual,yellow,short_sleeve,black,long,clothes,4,7,no
+373,23/11/2015,17:36:07,indian,male,moderate,46.0,no,no_kids,big,pink,casual,blue,short_sleeve,blue_jeans,long,blankets,3,8,no
+374,23/11/2015,17:48:01,chinese,male,fat,45.0,no,no_kids,big,green,casual,black,short_sleeve,blue_jeans,long,clothes,5,10,no
+375,23/11/2015,17:48:01,malay,female,moderate,45.0,no,no_kids,small,white,formal,brown,long sleeve,blue,long,clothes,4,9,no
+376,23/11/2015,19:14:05,foreigner ,female,thin,,no,no_kids,big,black,traditional,black,long sleeve,black,long,clothes,4,8,no
+377,23/11/2015,19:14:05,foreigner ,female,thin,36.0,no,no_kids,big,red,traditional,black,long sleeve,black,long,clothes,5,9,no
+378,23/11/2015,19:21:16,chinese,male,fat,32.0,no,no_kids,,green,casual,black,short_sleeve,white,short,clothes,4,7,yes
+379,23/11/2015,20:06:27,indian,male,moderate,30.0,no,no_kids,big,green,casual,black,short_sleeve,brown,,clothes,6,7,no
+380,23/11/2015,20:09:49,indian,male,fat,51.0,no,no_kids,big,white,casual,,short_sleeve,green,long,clothes,6,10,no
+381,23/11/2015,20:09:49,indian,male,thin,33.0,,no_kids,big,,casual,blue,short_sleeve,grey,short,clothes,4,10,no
+382,23/11/2015,20:09:49,malay,female,moderate,28.0,no,no_kids,big,white,casual,brown,long sleeve,black,long,clothes,3,7,no
+383,23/11/2015,20:11:02,chinese,male,thin,50.0,no,no_kids,big,green,casual,white,short_sleeve,brown,short,clothes,5,9,yes
+384,23/11/2015,20:43:44,indian,male,fat,53.0,no,no_kids,big,red,casual,white,short_sleeve,black,,clothes,4,10,no
+385,23/11/2015,20:47:06,foreigner ,male,fat,,no,no_kids,big,white,casual,orange,short_sleeve,brown,,blankets,3,10,no
+386,23/11/2015,20:47:06,malay,female,thin,33.0,no,no_kids,,red,traditional,,long sleeve,purple,long,clothes,4,8,yes
+387,23/11/2015,20:47:06,malay,female,thin,45.0,no,no_kids,big,white,casual,black,short_sleeve,blue,long,clothes,6,7,no
+388,23/11/2015,20:51:47,chinese,male,thin,33.0,yes,young,big,red,casual,,short_sleeve,blue,short,clothes,3,8,yes
+389,23/11/2015,22:16:27,indian,male,moderate,47.0,no,no_kids,big,red,casual,white,short_sleeve,black,long,blankets,4,8,no
+390,23/11/2015,22:52:37,chinese,,thin,31.0,,no_kids,big,red,casual,white,short_sleeve,blue ,long,clothes,5,7,no
+391,23/11/2015,22:56:54,indian,,,44.0,no,no_kids,big,red,casual,brown,short_sleeve,blue_jeans,long,clothes,5,8,no
+392,23/11/2015,22:56:54,foreigner ,female,fat,36.0,no,no_kids,big,blue,casual,grey,short_sleeve,blue_jeans,long,clothes,6,10,no
+393,23/11/2015,23:05:54,indian,male,fat,50.0,no,no_kids,big,pink,casual,green,short_sleeve,black,,blankets,6,8,no
+394,23/11/2015,23:22:38,indian,male,,53.0,no,no_kids,big,red,casual,blue,short_sleeve,red,short,clothes,5,7,no
+395,23/11/2015,23:22:38,indian,male,moderate,33.0,no,no_kids,big,white,casual,green,short_sleeve,black,long,clothes,3,7,yes
+396,23/11/2015,23:29:33,chinese,male,fat,45.0,no,no_kids,big,red,casual,brown,short_sleeve,blue,long,clothes,3,9,no
+397,24/11/2015,7:38:23,chinese,male,thin,50.0,yes,young,big,blue,formal,white,long sleeve,black,,blankets,5,7,yes
+398,24/11/2015,9:07:40,foreigner ,female,fat,36.0,,no_kids,big,,casual,blue,short_sleeve,black,long,clothes,4,8,no
+399,24/11/2015,10:49:42,indian,,moderate,49.0,no,no_kids,big,blue,casual,red,short_sleeve,black,,clothes,6,10,no
+400,24/11/2015,10:49:42,chinese,male,fat,55.0,no,no_kids,,black,casual,orange,long sleeve,black,short,,4,10,no
+401,24/11/2015,11:20:14,indian,male,fat,44.0,no,no_kids,big,white,casual,blue,short_sleeve,black,long,blankets,4,8,no
+402,24/11/2015,11:26:29,indian,female,fat,45.0,no,no_kids,big,pink,traditional,white,short_sleeve,white,,clothes,4,10,no
+403,24/11/2015,12:25:41,chinese,female,fat,37.0,no,no_kids,big,blue,casual,red,short_sleeve,purple,long,,4,9,no
+404,24/11/2015,12:49:01,indian,male,fat,55.0,no,no_kids,big,blue,casual,black,short_sleeve,blue_jeans,short,blankets,5,10,no
+405,24/11/2015,14:40:25,indian,male,thin,54.0,no,no_kids,big,green,casual,white,short_sleeve,black,long,clothes,4,8,no
+406,24/11/2015,16:03:37,indian,male,moderate,30.0,,no_kids,big,white,formal,white,short_sleeve,black,long,clothes,4,9,yes
+407,24/11/2015,16:45:13,,male,moderate,54.0,no,no_kids,big,black,casual,green,short_sleeve,black,,clothes,4,9,no
+408,24/11/2015,20:13:57,indian,male,thin,40.0,no,no_kids,big,red,casual,grey,short_sleeve,black,long,clothes,5,8,no
+409,24/11/2015,20:13:57,indian,male,fat,34.0,,no_kids,,green,casual,green,short_sleeve,brown,long,clothes,5,7,no
+410,24/11/2015,20:44:29,chinese,male,fat,35.0,no,no_kids,big,white,formal,white,long sleeve,black,long,clothes,5,9,yes
+411,24/11/2015,21:30:58,indian,male,,,no,no_kids,big,blue,casual,black,short_sleeve,black,long,clothes,3,10,yes
+412,24/11/2015,22:08:41,,male,,39.0,yes,baby,big,,casual,orange,short_sleeve,black,long,clothes,6,9,no
+413,24/11/2015,22:35:22,indian,female,moderate,43.0,no,no_kids,big,green,casual,,short_sleeve,red,,clothes,5,9,no
+414,24/11/2015,22:35:22,indian,female,moderate,44.0,no,no_kids,big,blue,formal,green,short_sleeve,black,long,clothes,4,8,no
+415,25/11/2015,14:11:15,indian,female,thin,40.0,no,no_kids,big,blue,casual,black,short_sleeve,black,long,blankets,3,7,no
+416,25/11/2015,14:11:15,chinese,male,fat,52.0,,no_kids,big,white,casual,brown,short_sleeve,white,short,clothes,4,7,no
+417,25/11/2015,15:27:34,indian,female,fat,39.0,no,no_kids,big,white,casual,blue,short_sleeve,black,short,clothes,4,9,no
+418,25/11/2015,16:35:21,indian,,thin,53.0,no,no_kids,big,white,casual,black,short_sleeve,brown,short,clothes,6,10,no
+419,25/11/2015,16:35:21,indian,male,fat,31.0,no,no_kids,big,red,casual,black,short_sleeve,black,long,clothes,5,9,no
+420,25/11/2015,16:35:21,,male,moderate,32.0,no,no_kids,big,red,casual,white,short_sleeve,white,short,clothes,4,8,no
+421,25/11/2015,17:08:33,foreigner ,male,thin,53.0,no,no_kids,big,green,casual,blue,short_sleeve,black,long,clothes,5,10,no
+422,25/11/2015,17:08:33,chinese,female,thin,41.0,no,no_kids,big,blue,casual,black,short_sleeve,black,long,clothes,5,7,no
+423,25/11/2015,18:07:55,foreigner ,female,thin,41.0,no,no_kids,big,red,casual,red,short_sleeve,orange,long,,4,8,no
+424,25/11/2015,21:25:02,chinese,,thin,36.0,no,no_kids,big,blue,casual,white,short_sleeve,blue,short,clothes,6,10,no
+425,25/11/2015,21:25:02,chinese,male,thin,49.0,no,no_kids,big,blue,casual,,short_sleeve,black,short,blankets,5,8,no
+426,25/11/2015,21:58:23,,female,moderate,50.0,,no_kids,big,blue,casual,black ,short_sleeve,blue,short,clothes,3,9,yes
+427,25/11/2015,21:58:23,indian,,fat,32.0,no,no_kids,big,white,casual,black,short_sleeve,blue,short,clothes,5,8,no
+428,25/11/2015,21:59:20,chinese,female,moderate,53.0,no,no_kids,big,white,casual,white,short_sleeve,red,short,clothes,6,10,no
+429,25/11/2015,22:30:03,indian,male,fat,40.0,no,no_kids,big,blue,casual,black,short_sleeve,black,long,clothes,6,10,no
+430,25/11/2015,22:30:03,chinese,male,thin,49.0,no,no_kids,big,white,casual,blue,short_sleeve,black,short,,3,7,no
+431,25/11/2015,22:33:38,foreigner ,female,thin,47.0,no,no_kids,big,red,casual,white,long sleeve,black,long,clothes,6,8,no
+432,25/11/2015,22:33:38,chinese,female,moderate,37.0,yes,young,big,white,casual,green,short_sleeve,pink,short,,5,7,no
+433,25/11/2015,22:41:24,indian,female,fat,49.0,,young,,black,casual,black,short_sleeve,blue_jeans,long,,5,7,no
+434,25/11/2015,23:00:39,chinese,male,,44.0,no,no_kids,big,white,casual,grey,short_sleeve,black,,,6,9,no
+435,26/11/2015,1:15:45,foreigner ,female,moderate,,no,no_kids,big,,casual,white,short_sleeve,purple,short,clothes,4,7,no
+436,26/11/2015,1:15:45,foreigner ,female,thin,47.0,no,no_kids,big,red,casual,brown,short_sleeve,pink,,clothes,5,9,no
+437,26/11/2015,1:41:18,indian,female,thin,45.0,no,no_kids,big,blue,casual,white,short_sleeve,black,long,clothes,6,10,no
+438,26/11/2015,3:53:40,chinese,male,thin,51.0,no,no_kids,big,green,casual,orange,short_sleeve,black,,clothes,4,9,no
+439,26/11/2015,7:19:32,foreigner ,male,moderate,48.0,no,no_kids,small,white,casual,white,short_sleeve,green,long,,5,10,no
+440,26/11/2015,9:05:04,indian,male,,37.0,no,no_kids,big,blue,casual,grey,short_sleeve,black,long,clothes,4,8,yes
+441,26/11/2015,9:05:04,foreigner ,male,moderate,33.0,no,no_kids,big,white,casual,white,short_sleeve,brown,,clothes,6,8,no
+442,26/11/2015,10:37:00,indian,male,moderate,46.0,no,no_kids,big,black,casual,black,short_sleeve,grey,short,clothes,5,8,no
+443,26/11/2015,10:37:00,chinese,male,thin,28.0,no,no_kids,big,white,casual,green,,black,long,clothes,5,8,no
+444,26/11/2015,12:28:12,indian,male,moderate,40.0,yes,young,big,green,casual,white,short_sleeve,black,long,clothes,6,7,no
+445,26/11/2015,16:46:45,indian,,fat,35.0,no,no_kids,big,blue,casual,brown,short_sleeve,black,short,clothes,4,10,no
+446,26/11/2015,18:07:14,foreigner ,,moderate,36.0,,no_kids,big,yellow,casual,,short_sleeve,white,,clothes,5,7,no
+447,26/11/2015,19:08:56,indian,male,fat,41.0,no,,big,yellow,casual,orange,short_sleeve,black,long,blankets,4,7,no
+448,26/11/2015,19:09:25,indian,female,moderate,34.0,no,no_kids,big,blue,casual,yellow,short_sleeve,black,long,clothes,3,7,no
+449,26/11/2015,19:30:30,chinese,,fat,29.0,no,no_kids,,blue,casual,grey,short_sleeve,brown,short,clothes,3,7,no
+450,26/11/2015,22:37:33,chinese,male,,43.0,no,no_kids,big,,casual,blue,,red,short,clothes,5,10,no
+451,26/11/2015,22:46:40,malay,female,,32.0,no,no_kids,big,blue,casual,black,long sleeve,black,long,clothes,3,7,no
+452,26/11/2015,23:04:09,foreigner ,male,moderate,44.0,no,no_kids,big,purple,casual,grey,short_sleeve,black,long,clothes,6,10,no
+453,26/11/2015,23:13:56,chinese,female,thin,47.0,no,no_kids,big,white,formal,red,long sleeve,blue,,clothes,6,8,yes
+454,26/11/2015,23:21:09,indian,male,moderate,45.0,no,no_kids,big,blue,casual,black,short_sleeve,black,long,blankets,3,7,no
+455,26/11/2015,23:32:17,malay,female,fat,45.0,no,no_kids,big,blue,casual,,short_sleeve,black,long,clothes,4,10,no
+456,26/11/2015,23:32:17,malay,female,thin,54.0,no,no_kids,big,red,casual,grey,long sleeve,black,long,clothes,4,9,no
+457,27/11/2015,8:26:31,chinese,,moderate,49.0,no,no_kids,,green,casual,orange,short_sleeve,blue_jeans,short,clothes,4,10,no
+458,27/11/2015,8:45:29,malay,female,thin,34.0,no,no_kids,,grey,casual,white,short_sleeve,black,long,clothes,3,8,no
+459,27/11/2015,8:55:52,,male,thin,44.0,,no_kids,,,formal,white,short_sleeve,blue,,,4,9,no
+460,27/11/2015,8:55:52,chinese,female,moderate,53.0,no,no_kids,big,white,casual,brown,short_sleeve,blue_jeans,short,clothes,4,7,no
+461,27/11/2015,9:15:51,indian,male,thin,33.0,no,no_kids,big,red,casual,red,short_sleeve,red,long,clothes,6,8,no
+462,27/11/2015,9:15:51,indian,,,36.0,no,no_kids,big,red,casual,red,short_sleeve,green,short,clothes,5,10,no
+463,27/11/2015,9:15:51,indian,male,thin,53.0,,no_kids,big,,casual,white,short_sleeve,red,short,clothes,6,10,no
+464,27/11/2015,10:22:32,malay,female,moderate,47.0,,no_kids,big,white,casual,,short_sleeve,blue_jeans,long,clothes,6,10,no
+465,27/11/2015,11:35:02,foreigner ,,thin,34.0,no,no_kids,big,white,casual,black,short_sleeve,green,long,clothes,6,10,no
+466,27/11/2015,11:35:02,foreigner ,female,,54.0,no,no_kids,big,white,casual,,long sleeve,blue,long,,4,9,no
+467,27/11/2015,12:25:06,chinese,male,moderate,52.0,no,no_kids,,yellow,traditional,,long sleeve,black,long,blankets,4,8,yes
+468,27/11/2015,12:37:20,indian,male,moderate,,no,no_kids,small,yellow,formal,red,short_sleeve,blue,long,clothes,5,9,no
+469,27/11/2015,12:48:06,chinese,,thin,38.0,yes,toddler,big,blue,casual,red,short_sleeve,brown,long,clothes,4,7,no
+470,27/11/2015,13:25:50,chinese,female,fat,53.0,no,no_kids,big,red,casual,brown,long sleeve,red,long,clothes,3,9,no
+471,27/11/2015,13:28:59,indian,female,thin,30.0,,no_kids,,blue,casual,blue,short_sleeve,purple,short,clothes,5,9,no
+472,27/11/2015,14:33:44,indian,,moderate,49.0,no,no_kids,big,blue,casual,green,short_sleeve,black,long,clothes,5,8,no
+473,27/11/2015,14:48:42,indian,male,moderate,41.0,no,no_kids,big,white,casual,blue,short_sleeve,black ,long,blankets,4,10,no
+474,27/11/2015,14:48:42,indian,male,moderate,,no,no_kids,big,blue,casual,black,short_sleeve,grey,long,clothes,6,7,no
+475,27/11/2015,14:48:42,chinese,female,,32.0,no,no_kids,big,blue,casual,brown,long sleeve,black,long,blankets,3,7,no
+476,27/11/2015,15:25:31,chinese,male,moderate,35.0,,no_kids,big,white,casual,yellow,short_sleeve,black,,clothes,3,9,no
+477,27/11/2015,15:25:31,foreigner ,,moderate,37.0,no,no_kids,big,blue,casual,green,short_sleeve,black,,blankets,6,8,yes
+478,27/11/2015,15:25:31,chinese,male,thin,,no,no_kids,big,white,casual,blue,short_sleeve,black,long,clothes,3,8,yes
+479,27/11/2015,16:58:42,chinese,male,thin,53.0,,no_kids,big,white,casual,blue,short_sleeve,black,,clothes,6,8,no
+480,27/11/2015,16:58:42,chinese,,thin,53.0,,no_kids,big,orange,casual,white,short_sleeve,blue_jeans,long,blankets,6,8,yes
+481,27/11/2015,17:03:52,chinese,male,thin,43.0,no,no_kids,big,red,casual,black,short_sleeve,grey,short,clothes,5,9,no
+482,27/11/2015,17:25:34,,male,,32.0,no,no_kids,big,red,casual,white,short_sleeve,blue_jeans,long,blankets,3,7,no
+483,27/11/2015,17:30:51,chinese,male,thin,28.0,no,no_kids,big,red,casual,black,short_sleeve,black,short,blankets,6,9,yes
+484,27/11/2015,17:30:51,indian,female,moderate,42.0,no,no_kids,,white,casual,white,short_sleeve,black,long,blankets,3,7,no
+485,27/11/2015,17:30:51,indian,female,moderate,,no,no_kids,big,black,casual,black,short_sleeve,green,short,blankets,3,7,no
+486,27/11/2015,17:59:15,malay,female,thin,29.0,no,no_kids,big,,traditional,black,long sleeve,black,long,blankets,3,10,no
+487,27/11/2015,18:05:15,indian,male,fat,,no,no_kids,big,white,casual,white,short_sleeve,grey,short,clothes,5,10,no
+488,27/11/2015,18:05:15,indian,female,moderate,28.0,no,no_kids,big,,casual,white,long sleeve,black,long,blankets,3,7,no
+489,27/11/2015,18:40:46,chinese,male,thin,49.0,no,no_kids,big,white,formal,white,short_sleeve,black,long,clothes,4,10,no
+490,27/11/2015,18:40:46,chinese,female,moderate,,,no_kids,big,black,casual,black,short_sleeve,grey,long,clothes,6,7,no
+491,27/11/2015,18:52:40,chinese,male,,,no,no_kids,big,blue,casual,white,short_sleeve,blue,long,blankets,3,9,yes
+492,27/11/2015,19:20:57,indian,female,thin,38.0,no,no_kids,big,,casual,black,short_sleeve,grey,long,blankets,6,9,no
+493,27/11/2015,19:20:57,chinese,male,moderate,49.0,,no_kids,big,white,casual,white,short_sleeve,black,long,clothes,4,8,no
+494,27/11/2015,20:08:45,foreigner ,,moderate,35.0,no,no_kids,big,red,casual,red,long sleeve,black,long,clothes,4,7,no
+495,27/11/2015,20:08:45,foreigner ,female,fat,32.0,no,no_kids,big,white,casual,white,long sleeve,red,long,clothes,3,10,no
+496,27/11/2015,20:29:06,indian,female,thin,47.0,no,no_kids,big,,casual,black,short_sleeve,black,long,clothes,4,9,no
+497,27/11/2015,20:30:58,indian,female,fat,51.0,no,no_kids,big,,casual,white,short_sleeve,black,long,,5,8,no
+498,27/11/2015,20:42:26,chinese,female,thin,46.0,no,no_kids,big,,casual,white,short_sleeve,blue_jeans,long,clothes,6,9,no
+499,27/11/2015,20:44:46,foreigner ,female,thin,41.0,yes,young,big,,casual,white,short_sleeve,blue_jeans,,clothes,3,10,no
+500,27/11/2015,21:03:10,chinese,female,,28.0,yes,young,big,red,casual,black,short_sleeve,black,long,,5,7,yes
+501,27/11/2015,21:10:54,foreigner ,,,36.0,yes,young,big,white,traditional,blue,long sleeve,blue,long,clothes,3,8,no
+502,27/11/2015,21:15:59,malay,female,fat,51.0,yes,toddler,big,pink,casual,red,short_sleeve,black,,blankets,5,10,yes
+503,27/11/2015,21:15:59,malay,female,fat,29.0,yes,young,big,pink,traditional,grey,long sleeve,grey,long,blankets,6,9,yes
+504,27/11/2015,21:15:59,chinese,male,moderate,44.0,no,no_kids,big,red,casual,yellow,short_sleeve,blue_jeans,long,clothes,6,8,no
+505,27/11/2015,21:15:59,,male,fat,31.0,no,no_kids,big,red,casual,blue,short_sleeve,black,long,clothes,3,8,yes
+506,27/11/2015,21:27:10,indian,,fat,52.0,,young,big,,casual,white,short_sleeve,black,long,,4,10,no
+507,27/11/2015,21:27:10,,female,moderate,32.0,yes,toddler,big,pink,casual,black,short_sleeve,black,long,clothes,3,10,no
+508,27/11/2015,21:27:10,indian,female,thin,32.0,no,no_kids,big,white,casual,white,short_sleeve,blue_jeans,long,clothes,3,8,yes
+509,27/11/2015,21:27:10,malay,female,,49.0,yes,young,big,red,casual,red,long sleeve,black,,blankets,3,7,no
+510,27/11/2015,21:46:58,,female,fat,28.0,yes,toddler,big,red,traditional,white,long sleeve,white,long,blankets,6,7,yes
+511,27/11/2015,21:46:58,malay,,moderate,48.0,yes,young,big,red,casual,black,,grey,long,blankets,5,8,no
+512,27/11/2015,22:01:50,chinese,male,fat,35.0,no,no_kids,big,white,casual,black,short_sleeve,blue_jeans,long,blankets,3,7,yes
+513,27/11/2015,22:32:42,chinese,male,moderate,38.0,no,no_kids,,red,casual,yellow,short_sleeve,blue_jeans,long,clothes,5,8,no
+514,27/11/2015,22:32:42,chinese,male,fat,49.0,no,no_kids,big,red,casual,blue,short_sleeve,black,long,clothes,3,9,yes
+515,27/11/2015,22:32:42,indian,female,fat,34.0,,young,big,pink,casual,white,short_sleeve,black,long,blankets,3,10,no
+516,27/11/2015,22:32:42,indian,female,,44.0,yes,toddler,,pink,casual,black,short_sleeve,black,long,clothes,3,7,no
+517,27/11/2015,22:44:34,chinese,male,moderate,52.0,no,no_kids,big,,,green,,black,long,clothes,4,8,no
+518,27/11/2015,22:49:09,chinese,male,thin,50.0,no,no_kids,big,white,formal,white,short_sleeve,blue,long,clothes,6,9,no
+519,27/11/2015,22:49:09,chinese,female,moderate,38.0,no,no_kids,big,white,casual,brown,short_sleeve,blue_jeans,short,clothes,4,10,no
+520,27/11/2015,22:49:09,indian,male,thin,52.0,no,,big,red,casual,red,short_sleeve,red,long,clothes,6,8,no
+521,27/11/2015,22:49:09,indian,male,thin,52.0,no,no_kids,big,red,casual,red,short_sleeve,green,short,,5,7,no
+522,27/11/2015,22:49:09,indian,male,thin,50.0,,no_kids,big,,casual,white,short_sleeve,red,,clothes,6,10,no
+523,27/11/2015,22:58:50,foreigner ,female,fat,51.0,no,no_kids,,,casual,black,long sleeve,black,long,blankets,5,9,no
+524,27/11/2015,22:58:50,indian,female,moderate,52.0,no,no_kids,big,blue,casual,white,short_sleeve,white,long,clothes,5,7,yes
+525,27/11/2015,23:17:24,foreigner ,male,moderate,32.0,no,no_kids,big,blue,casual,red,short_sleeve,black,short,clothes,3,9,no
+526,27/11/2015,23:17:24,chinese,male,thin,29.0,no,no_kids,big,purple,casual,grey,short_sleeve,brown,short,blankets,5,9,yes
+527,27/11/2015,23:23:43,indian,male,moderate,29.0,no,no_kids,big,purple,casual,green,short_sleeve,black,short,blankets,5,9,no
+528,27/11/2015,23:23:43,foreigner ,female,,47.0,yes,young,big,,casual,black,short_sleeve,black,long,,5,8,no
+529,27/11/2015,23:48:28,indian,male,fat,40.0,yes,toddler,big,blue,formal,black,short_sleeve,black,long,clothes,6,7,no
+530,27/11/2015,23:50:39,chinese,female,moderate,31.0,yes,young,big,,casual,green,short_sleeve,pink,short,,3,7,no
+531,27/11/2015,23:50:39,indian,female,fat,44.0,yes,young,big,black,casual,black,short_sleeve,blue_jeans,long,clothes,6,7,no
+532,27/11/2015,23:50:39,chinese,,thin,54.0,no,no_kids,big,white,casual,grey,short_sleeve,black,long,clothes,6,8,no
+533,27/11/2015,23:50:39,foreigner ,,moderate,28.0,no,no_kids,big,red,casual,white,short_sleeve,purple,short,clothes,4,8,no
+534,27/11/2015,23:56:22,foreigner ,female,,34.0,no,no_kids,big,,casual,,short_sleeve,pink,long,clothes,5,10,no
+535,27/11/2015,23:56:22,,female,thin,36.0,no,no_kids,big,blue,casual,white,short_sleeve,black,long,clothes,6,10,no
+536,27/11/2015,23:56:22,chinese,male,thin,43.0,no,no_kids,big,green,casual,orange,short_sleeve,black,long,clothes,5,9,no
+537,28/11/2015,0:04:53,chinese,female,moderate,29.0,no,no_kids,big,green,casual,red,short_sleeve,black,long,blankets,3,7,no
+538,28/11/2015,0:12:04,indian,,moderate,30.0,no,no_kids,big,green,casual,red,short_sleeve,red,short,clothes,3,9,no
+539,28/11/2015,0:12:04,indian,female,moderate,46.0,no,no_kids,big,blue,formal,green,short_sleeve,black,long,clothes,4,9,no
+540,28/11/2015,0:12:04,indian,female,thin,39.0,,no_kids,big,blue,casual,black,short_sleeve,black,long,blankets,6,7,no
+541,28/11/2015,0:12:04,chinese,male,fat,55.0,no,no_kids,big,white,,brown,short_sleeve,white,short,clothes,4,9,no
+542,28/11/2015,0:21:35,indian,female,fat,43.0,,no_kids,big,white,casual,blue,short_sleeve,black,,clothes,3,9,no
+543,28/11/2015,0:21:35,indian,female,thin,29.0,no,no_kids,big,white,casual,black,short_sleeve,brown,short,clothes,6,9,no
+544,28/11/2015,0:26:07,chinese,male,thin,42.0,no,no_kids,big,purple,casual,red,short_sleeve,white,short,blankets,6,8,no
+545,28/11/2015,0:47:29,chinese,male,thin,,yes,toddler,big,yellow,casual,black,short_sleeve,black,long,clothes,4,9,no
+546,28/11/2015,0:47:29,indian,male,thin,40.0,no,no_kids,big,blue,casual,black,short_sleeve,grey,,clothes,6,10,no
+547,28/11/2015,0:47:29,malay,female,fat,,no,no_kids,big,yellow,casual,purple,long sleeve,green,long,,3,9,no
+548,28/11/2015,0:53:14,indian,,thin,37.0,yes,young,,orange,formal,red,short_sleeve,grey,long,,6,9,no
+549,28/11/2015,0:53:14,indian,male,moderate,38.0,no,no_kids,big,,casual,purple,short_sleeve,blue_jeans,long,blankets,6,8,yes
+550,28/11/2015,0:53:14,chinese,female,,36.0,yes,baby,big,white,casual,red,short_sleeve,black,long,blankets,3,8,no
+551,28/11/2015,1:07:40,malay,male,,48.0,no,no_kids,small,white,casual,black,short_sleeve,black,long,clothes,4,9,no
+552,28/11/2015,1:07:40,chinese,male,moderate,35.0,no,no_kids,big,white,casual,white,short_sleeve,black,long,clothes,3,10,yes
+553,28/11/2015,1:46:27,indian,male,thin,41.0,no,no_kids,big,,casual,black,short_sleeve,black,long,blankets,4,7,yes
+554,28/11/2015,1:46:27,indian,female,fat,53.0,,no_kids,big,blue,traditional,,short_sleeve,white,long,clothes,5,10,no
+555,28/11/2015,1:46:27,chinese,female,moderate,44.0,,no_kids,big,white,casual,white,short_sleeve,red,short,clothes,6,10,no
+556,28/11/2015,1:54:34,chinese,female,thin,46.0,,no_kids,big,grey,casual,black,short_sleeve,white,short,clothes,5,9,yes
+557,28/11/2015,1:54:34,indian,male,fat,29.0,no,no_kids,big,,casual,white,short_sleeve,white,long,,3,7,yes
+558,28/11/2015,3:15:41,foreigner ,male,fat,42.0,no,no_kids,big,red,casual,red,short_sleeve,black,,blankets,6,7,no
+559,28/11/2015,4:34:53,chinese,female,,39.0,no,no_kids,big,pink,casual,pink,short_sleeve,pink,long,clothes,5,10,yes
+560,28/11/2015,4:36:53,chinese,female,moderate,37.0,no,no_kids,big,green,casual,red,short_sleeve,black,long,blankets,6,7,no
+561,28/11/2015,4:36:53,indian,female,moderate,49.0,no,no_kids,big,,casual,red,short_sleeve,red,short,clothes,3,9,no
+562,28/11/2015,4:36:53,indian,female,moderate,43.0,no,no_kids,big,blue,formal,green,short_sleeve,black,long,clothes,4,10,no
+563,28/11/2015,4:39:27,chinese,,thin,42.0,no,no_kids,big,red,casual,black,long sleeve,blue_jeans,long,clothes,4,8,no
+564,28/11/2015,4:39:27,indian,male,thin,54.0,no,no_kids,big,white,casual,blue,short_sleeve,blue_jeans,long,blankets,5,7,no
+565,28/11/2015,5:18:18,indian,male,moderate,,no,no_kids,big,green,casual,blue,short_sleeve,black,short,clothes,6,10,no
+566,28/11/2015,5:40:34,chinese,female,,51.0,no,no_kids,big,red,casual,black,long sleeve,blue_jeans,long,clothes,4,8,no
+567,28/11/2015,8:13:33,chinese,,fat,53.0,no,no_kids,big,,casual,blue,short_sleeve,black,long,clothes,6,10,no
+568,28/11/2015,8:23:27,,male,,38.0,yes,young,big,red,casual,brown,short_sleeve,blue_jeans,long,clothes,3,10,no
+569,28/11/2015,8:31:26,indian,male,fat,28.0,no,no_kids,big,,casual,yellow,short_sleeve,blue_jeans,long,clothes,3,7,no
+570,28/11/2015,8:31:26,indian,male,fat,30.0,no,no_kids,big,red,casual,orange,short_sleeve,grey,long,clothes,4,7,yes
+571,28/11/2015,8:38:07,,male,moderate,55.0,,no_kids,big,blue,casual,white,short_sleeve,blue,short,blankets,4,8,yes
+572,28/11/2015,8:59:43,indian,male,,37.0,yes,young,big,blue,casual,red,short_sleeve,blue_jeans,long,,4,10,no
+573,28/11/2015,9:01:39,foreigner ,male,fat,42.0,no,no_kids,big,white,casual,orange,short_sleeve,brown,short,blankets,5,7,no
+574,28/11/2015,9:01:39,,male,moderate,33.0,no,no_kids,big,white,casual,white,short_sleeve,blue_jeans,long,,3,7,no
+575,28/11/2015,9:07:24,chinese,male,fat,36.0,yes,young,,orange,casual,white,short_sleeve,blue,short,clothes,3,8,yes
+576,28/11/2015,9:30:00,malay,female,fat,38.0,yes,toddler,big,red,casual,red,short_sleeve,grey,long,clothes,3,8,no
+577,28/11/2015,9:30:00,malay,female,moderate,33.0,no,no_kids,big,black,casual,,long sleeve,blue ,long,clothes,5,7,no
+578,28/11/2015,10:11:49,chinese,male,moderate,38.0,no,no_kids,big,red,casual,grey,short_sleeve,black,long,clothes,6,8,no
+579,28/11/2015,10:29:01,indian,female,,36.0,no,no_kids,big,green,casual,black,short_sleeve,grey,long,clothes,6,10,no
+580,28/11/2015,10:40:32,chinese,male,thin,36.0,no,no_kids,,green,casual,grey,short_sleeve,black,long,blankets,6,9,no
+581,28/11/2015,10:47:35,chinese,female,thin,53.0,no,no_kids,,white,casual,blue,short_sleeve,blue_jeans,long,blankets,6,7,yes
+582,28/11/2015,11:02:24,malay,female,fat,50.0,no,no_kids,big,white,casual,red,short_sleeve,grey,long,clothes,6,9,yes
+583,28/11/2015,11:02:24,malay,female,fat,46.0,no,no_kids,big,,traditional,red,long sleeve,red,long,blankets,5,7,yes
+584,28/11/2015,11:02:30,indian,female,fat,37.0,yes,young,small,white,traditional,brown,short_sleeve,blue,long,clothes,5,9,no
+585,28/11/2015,11:02:30,indian,female,moderate,43.0,yes,baby,big,white,casual,blue,short_sleeve,brown,short,clothes,3,9,no
+586,28/11/2015,11:02:30,chinese,female,,48.0,yes,toddler,big,red,casual,red,short_sleeve,green,short,clothes,6,8,no
+587,28/11/2015,11:02:30,indian,female,fat,37.0,yes,young,big,red,casual,purple,short_sleeve,black,,clothes,4,8,no
+588,28/11/2015,11:02:30,indian,female,moderate,52.0,yes,young,big,red,casual,white,short_sleeve,purple,short,clothes,3,7,no
+589,28/11/2015,11:02:30,indian,female,fat,39.0,no,no_kids,big,white,traditional,,short_sleeve,black,long,blankets,4,8,no
+590,28/11/2015,11:02:49,chinese,female,moderate,38.0,no,no_kids,big,blue,casual,white,,grey,,blankets,3,7,no
+591,28/11/2015,11:02:49,chinese,female,fat,42.0,no,no_kids,big,blue,casual,brown,long sleeve,black,long,blankets,6,7,no
+592,28/11/2015,11:02:49,indian,female,moderate,41.0,no,no_kids,big,white,casual,white,short_sleeve,black,long,,3,10,no
+593,28/11/2015,11:02:49,indian,female,moderate,47.0,no,no_kids,big,black,casual,black,short_sleeve,green,short,blankets,4,7,no
+594,28/11/2015,11:02:49,indian,female,moderate,29.0,no,no_kids,big,blue,casual,white,long sleeve,black,long,blankets,3,7,no
+595,28/11/2015,11:03:01,indian,female,fat,46.0,yes,young,big,pink,casual,white,short_sleeve,black,long,blankets,5,10,no
+596,28/11/2015,11:03:01,indian,female,fat,36.0,,young,big,,casual,white,short_sleeve,black,,blankets,5,10,no
+597,28/11/2015,11:03:01,chinese,female,moderate,34.0,no,no_kids,big,green,casual,red,short_sleeve,black,long,blankets,4,7,no
+598,28/11/2015,11:03:01,chinese,female,moderate,51.0,no,no_kids,big,green,casual,red,short_sleeve,black,,blankets,4,7,no
+599,28/11/2015,11:03:01,indian,female,moderate,51.0,yes,young,big,red,casual,white,short_sleeve,purple,short,clothes,3,7,no
+600,28/11/2015,11:03:57,indian,female,fat,44.0,no,no_kids,big,white,traditional,green,short_sleeve,black,long,,5,8,no
+601,28/11/2015,11:03:57,chinese,female,moderate,33.0,no,no_kids,big,blue,casual,white,short_sleeve,grey,,blankets,3,7,no
+602,28/11/2015,11:03:57,chinese,female,fat,46.0,no,no_kids,big,,casual,,long sleeve,black,long,blankets,5,7,no
+603,28/11/2015,11:03:57,indian,female,fat,45.0,yes,young,small,white,traditional,brown,short_sleeve,blue,long,,5,10,no
+604,28/11/2015,11:33:31,indian,female,moderate,45.0,no,no_kids,big,green,casual,,short_sleeve,blue_jeans,short,clothes,5,9,yes
+605,28/11/2015,12:15:39,indian,female,thin,50.0,yes,young,big,white,casual,,short_sleeve,black,short,blankets,5,7,no
+606,28/11/2015,12:22:57,malay,female,moderate,,no,no_kids,big,red,casual,,long sleeve,black,long,clothes,5,8,no
+607,28/11/2015,12:50:13,indian,female,fat,40.0,yes,young,big,black,casual,black,short_sleeve,black,short,,3,9,yes
+608,28/11/2015,12:50:13,foreigner ,female,thin,44.0,yes,baby,big,green,formal,yellow,long sleeve,black,,clothes,3,7,yes
+609,28/11/2015,13:01:41,malay,,fat,52.0,no,no_kids,big,red,formal,red,,black,long,clothes,6,8,no
+610,28/11/2015,13:01:41,indian,male,fat,51.0,,no_kids,big,white,casual,black,short_sleeve,blue_jeans,long,clothes,6,7,no
+611,28/11/2015,13:01:41,chinese,male,moderate,49.0,no,no_kids,big,white,casual,white,short_sleeve,black,short,clothes,6,8,yes
+612,28/11/2015,13:56:34,indian,female,,40.0,yes,young,big,blue,casual,white,short_sleeve,black,long,clothes,4,7,no
+613,28/11/2015,14:50:23,malay,,,46.0,no,no_kids,big,black,casual,,long sleeve,white,long,clothes,6,9,no
+614,28/11/2015,14:50:23,chinese,male,fat,38.0,no,no_kids,big,blue,casual,,short_sleeve,black,short,clothes,3,9,yes
+615,28/11/2015,14:53:57,chinese,,moderate,52.0,no,no_kids,big,white,casual,pink,short_sleeve,blue_jeans,short,clothes,4,7,no
+616,28/11/2015,14:53:57,indian,female,fat,55.0,no,no_kids,small,white,traditional,red,short_sleeve,black,long,clothes,5,9,no
+617,28/11/2015,14:56:42,indian,female,fat,51.0,yes,young,small,white,traditional,brown,short_sleeve,blue,long,clothes,5,8,no
+618,28/11/2015,14:56:42,,female,fat,41.0,no,no_kids,big,white,formal,purple,long sleeve,black,long,clothes,4,7,no
+619,28/11/2015,14:56:42,indian,female,moderate,44.0,yes,young,,red,casual,white,short_sleeve,purple,,clothes,3,8,no
+620,28/11/2015,14:56:42,indian,female,fat,43.0,no,no_kids,big,pink,traditional,white,short_sleeve,white,long,clothes,4,10,no
+621,28/11/2015,14:58:17,chinese,female,moderate,49.0,no,no_kids,big,white,casual,white,short_sleeve,red,short,clothes,6,10,no
+622,28/11/2015,14:58:17,chinese,female,moderate,,,,big,white,casual,white,short_sleeve,red,short,clothes,6,9,no
+623,28/11/2015,14:58:17,indian,female,fat,29.0,yes,young,small,,traditional,,short_sleeve,blue,long,clothes,5,10,no
+624,28/11/2015,14:58:17,indian,female,moderate,32.0,yes,young,big,red,casual,white,short_sleeve,purple,short,clothes,3,10,no
+625,28/11/2015,14:58:17,indian,female,moderate,55.0,yes,young,big,red,casual,white,short_sleeve,purple,short,,3,8,no
+626,28/11/2015,15:01:51,indian,female,fat,53.0,yes,,small,white,traditional,brown,short_sleeve,blue,long,clothes,5,10,no
+627,28/11/2015,15:01:51,indian,female,fat,35.0,yes,young,big,black,casual,black,short_sleeve,black,short,clothes,5,9,yes
+628,28/11/2015,16:16:37,foreigner ,female,moderate,,yes,young,big,,casual,pink,long sleeve,black,long,clothes,3,10,no
+629,28/11/2015,16:16:37,chinese,male,moderate,54.0,,no_kids,big,red,casual,,short_sleeve,black,long,clothes,4,8,yes
+630,28/11/2015,18:01:45,foreigner ,male,fat,54.0,no,no_kids,big,,formal,blue,long sleeve,black,long,blankets,4,10,no
+631,28/11/2015,18:01:45,foreigner ,male,fat,45.0,no,no_kids,big,white,casual,green,short_sleeve,black,short,clothes,3,7,no
+632,28/11/2015,18:39:28,chinese,male,fat,40.0,no,no_kids,big,blue,casual,black,,black,long,clothes,6,9,yes
+633,28/11/2015,18:39:28,,male,fat,37.0,no,no_kids,big,red,casual,white,long sleeve,black,long,clothes,5,9,no
+634,28/11/2015,18:39:28,,,fat,28.0,no,no_kids,big,white,traditional,grey,long sleeve,grey,long,clothes,4,7,no
+635,28/11/2015,19:20:25,indian,male,fat,39.0,yes,toddler,big,white,formal,white,short_sleeve,grey,long,clothes,4,7,no
+636,28/11/2015,19:20:54,indian,male,fat,38.0,yes,young,big,,casual,red,short_sleeve,black,long,blankets,6,10,yes
+637,28/11/2015,19:20:54,chinese,male,moderate,37.0,no,no_kids,big,,casual,,short_sleeve,blue,short,clothes,3,10,yes
+638,28/11/2015,19:37:03,foreigner ,male,fat,55.0,no,no_kids,big,,casual,white,short_sleeve,black,long,blankets,6,7,no
+639,28/11/2015,19:41:26,indian,female,fat,47.0,no,no_kids,big,white,formal,blue,long sleeve,black,,blankets,6,8,yes
+640,28/11/2015,20:13:04,malay,female,fat,32.0,,young,big,brown,traditional,blue,long sleeve,blue,long,clothes,3,10,yes
+641,28/11/2015,21:02:03,chinese,,moderate,53.0,no,no_kids,big,white,casual,red,short_sleeve,grey,long,clothes,5,8,no
+642,28/11/2015,21:02:03,indian,female,,40.0,no,no_kids,big,,casual,brown,long sleeve,black,long,blankets,6,7,yes
+643,28/11/2015,21:07:53,chinese,male,fat,48.0,no,no_kids,big,pink,casual,yellow,short_sleeve,black,short,clothes,5,7,no
+644,28/11/2015,21:07:03,chinese,female,fat,29.0,no,no_kids,big,blue,casual,,long sleeve,blue,long,clothes,4,10,no
+645,28/11/2015,21:44:36,indian,male,fat,39.0,,no_kids,big,pink,casual,black,short_sleeve,blue_jeans,long,,5,7,no
+646,28/11/2015,22:12:27,indian,male,fat,46.0,no,,big,pink,casual,white,short_sleeve,white,short,clothes,5,8,no
+647,28/11/2015,22:12:27,indian,male,moderate,53.0,no,no_kids,big,white,casual,black,short_sleeve,blue_jeans,long,clothes,6,10,no
+648,28/11/2015,22:12:27,foreigner ,,moderate,40.0,no,no_kids,big,,,brown,long sleeve,,long,blankets,3,7,yes
+649,28/11/2015,22:17:54,chinese,male,fat,42.0,no,,big,red,casual,orange,short_sleeve,blue_jeans,long,clothes,4,7,no
+650,28/11/2015,23:04:39,indian,,moderate,55.0,no,no_kids,big,,formal,blue,long sleeve,black,long,clothes,6,8,no
+651,28/11/2015,23:04:39,,male,moderate,38.0,no,no_kids,big,green,casual,,short_sleeve,brown,long,clothes,3,9,no
+652,28/11/2015,23:04:39,indian,male,fat,41.0,no,no_kids,big,white,casual,red,short_sleeve,grey,short,clothes,3,7,no
+653,28/11/2015,23:04:39,indian,male,,55.0,no,no_kids,big,,formal,blue,short_sleeve,black,long,clothes,4,10,no
+654,28/11/2015,23:14:19,indian,male,fat,35.0,,no_kids,big,black,casual,green,short_sleeve,grey,long,blankets,4,8,no
+655,28/11/2015,23:18:29,indian,female,thin,44.0,no,no_kids,big,red,casual,grey,short_sleeve,white,short,clothes,5,9,no
+656,28/11/2015,23:54:31,foreigner ,,,,yes,young,big,white,casual,red,short_sleeve,,short,blankets,3,8,no
+657,29/11/2015,0:07:01,indian,male,fat,34.0,yes,young,big,white,casual,,short_sleeve,black,long,blankets,3,7,no
+658,29/11/2015,0:08:32,chinese,female,moderate,40.0,yes,young,big,,casual,,short_sleeve,pink,short,clothes,5,7,no
+659,29/11/2015,0:08:32,chinese,female,moderate,28.0,yes,young,big,red,casual,,short_sleeve,black,long,,6,7,yes
+660,29/11/2015,0:08:32,foreigner ,female,,51.0,yes,,big,blue,casual,black,short_sleeve,black,long,clothes,4,8,no
+661,29/11/2015,0:09:18,chinese,female,moderate,51.0,yes,young,big,,,green,short_sleeve,pink,short,clothes,6,7,no
+662,29/11/2015,0:09:18,foreigner ,female,moderate,37.0,,young,big,blue,casual,pink,long sleeve,black,long,clothes,5,10,no
+663,29/11/2015,0:09:18,chinese,male,thin,43.0,yes,toddler,big,red,casual,white,,white,short,clothes,5,9,yes
+664,29/11/2015,1:25:34,chinese,male,fat,53.0,no,no_kids,big,red,casual,blue,short_sleeve,green,short,,3,9,yes
+665,29/11/2015,1:25:34,chinese,male,fat,43.0,no,no_kids,big,blue,casual,black,short_sleeve,white,short,clothes,3,7,no
+666,29/11/2015,1:25:34,foreigner ,,thin,44.0,no,no_kids,small,brown,casual,,short_sleeve,brown,short,clothes,5,7,no
+667,29/11/2015,1:25:34,chinese,female,moderate,44.0,no,no_kids,big,white,casual,white,short_sleeve,red,short,clothes,6,10,no
+668,29/11/2015,2:12:22,chinese,female,moderate,,no,no_kids,big,white,casual,white,short_sleeve,red,short,clothes,6,9,no
+669,29/11/2015,2:12:22,foreigner ,,fat,46.0,no,no_kids,big,white,casual,orange,short_sleeve,brown,short,blankets,3,7,no
+670,29/11/2015,2:12:22,chinese,male,fat,50.0,no,no_kids,big,blue,formal,white,short_sleeve,black,short,clothes,3,10,yes
+671,29/11/2015,2:12:22,chinese,,,,no,no_kids,,,formal,white,short_sleeve,red,short,clothes,6,9,no
+672,29/11/2015,2:38:45,chinese,female,moderate,41.0,no,no_kids,big,white,formal,white,short_sleeve,red,short,clothes,6,10,no
+673,29/11/2015,2:38:45,foreigner ,male,fat,29.0,no,no_kids,big,white,formal,green,short_sleeve,black,short,clothes,3,7,no
+674,29/11/2015,2:38:45,chinese,male,fat,29.0,no,no_kids,big,pink,formal,yellow,short_sleeve,black,short,clothes,5,9,no
+675,29/11/2015,2:38:45,chinese,,thin,51.0,yes,toddler,big,red,formal,white,short_sleeve,white,short,clothes,5,9,yes
+676,29/11/2015,2:44:59,chinese,male,fat,53.0,no,no_kids,big,red,casual,blue,short_sleeve,green,short,clothes,3,9,yes
+677,29/11/2015,2:44:59,chinese,male,fat,36.0,no,no_kids,big,blue,casual,black,short_sleeve,white,,clothes,3,7,no
+678,29/11/2015,2:44:59,foreigner ,male,thin,39.0,no,no_kids,small,brown,formal,grey,short_sleeve,brown,short,clothes,5,10,no
+679,29/11/2015,2:44:59,chinese,female,moderate,49.0,no,no_kids,big,white,formal,white,short_sleeve,red,short,clothes,6,7,no
+680,29/11/2015,2:44:59,chinese,,moderate,36.0,no,no_kids,big,white,formal,white,short_sleeve,red,short,clothes,6,7,no
+681,29/11/2015,3:24:52,foreigner ,male,fat,54.0,no,no_kids,big,white,formal,orange,short_sleeve,brown,,blankets,3,7,no
+682,29/11/2015,3:24:52,chinese,male,fat,47.0,no,no_kids,big,blue,formal,,short_sleeve,black,short,clothes,3,8,yes
+683,29/11/2015,3:24:52,chinese,female,moderate,34.0,no,no_kids,big,,,white,short_sleeve,red,short,clothes,6,9,no
+684,29/11/2015,3:24:52,chinese,female,moderate,42.0,no,no_kids,big,white,,white,short_sleeve,red,short,clothes,6,9,no
+685,29/11/2015,3:36:20,foreigner ,,fat,50.0,no,no_kids,big,white,,green,short_sleeve,black,short,clothes,3,8,no
+686,29/11/2015,3:36:20,chinese,male,fat,38.0,no,no_kids,big,pink,,yellow,,black,,blankets,5,8,no
+687,29/11/2015,3:36:20,chinese,,moderate,42.0,,toddler,big,white,,white,short_sleeve,red,short,blankets,6,7,no
+688,29/11/2015,3:36:20,chinese,female,moderate,42.0,yes,baby,big,white,,white,short_sleeve,red,short,blankets,6,10,no
+689,29/11/2015,3:47:21,chinese,female,moderate,47.0,yes,baby,big,white,formal,white,short_sleeve,red,short,blankets,6,10,no
+690,29/11/2015,3:47:21,chinese,female,moderate,54.0,yes,toddler,big,pink,casual,white,short_sleeve,red,short,blankets,3,10,no
+691,29/11/2015,3:47:21,,,moderate,39.0,yes,toddler,big,orange,casual,purple,short_sleeve,purple,short,,6,10,no
+692,29/11/2015,3:47:21,chinese,female,moderate,44.0,yes,baby,big,blue,formal,orange,,red,short,blankets,6,10,no
+693,29/11/2015,4:01:54,chinese,female,,52.0,yes,baby,big,black,formal,pink,short_sleeve,red,short,blankets,6,10,no
+694,29/11/2015,4:01:54,chinese,female,,36.0,yes,baby,big,orange,formal,purple,short_sleeve,red,short,blankets,3,9,no
+695,29/11/2015,4:01:54,chinese,female,moderate,35.0,yes,baby,big,,formal,orange,short_sleeve,red,short,clothes,6,8,no
+696,29/11/2015,4:01:54,,,moderate,45.0,yes,baby,big,red,formal,pink,short_sleeve,blue,short,blankets,5,8,no
+697,29/11/2015,4:02:14,chinese,female,moderate,47.0,yes,baby,big,grey,formal,purple,short_sleeve,white,short,blankets,4,10,no
+698,29/11/2015,4:02:14,chinese,female,moderate,39.0,yes,toddler,big,black,casual,orange,,black,short,blankets,3,10,no
+699,29/11/2015,4:02:14,chinese,female,moderate,46.0,yes,baby,big,black,formal,pink,short_sleeve,pink,long,blankets,4,7,yes
+700,29/11/2015,4:02:14,malay,female,fat,45.0,no,no_kids,big,black,casual,orange,long sleeve,white,,clothes,5,9,no
+701,29/11/2015,4:02:14,chinese,male,fat,53.0,no,no_kids,big,blue,casual,white,short_sleeve,black,,clothes,3,8,yes
+702,29/11/2015,4:02:14,chinese,female,moderate,29.0,no,no_kids,big,white,casual,pink,short_sleeve,blue_jeans,short,clothes,4,10,no
+703,29/11/2015,4:02:14,indian,female,fat,43.0,no,no_kids,small,white,traditional,red,short_sleeve,black,long,clothes,5,10,no
+704,29/11/2015,4:02:14,indian,female,fat,47.0,yes,young,small,white,traditional,brown,short_sleeve,blue,long,clothes,5,8,no
+705,29/11/2015,4:03:48,indian,female,fat,49.0,no,no_kids,big,white,formal,purple,long sleeve,black,long,clothes,6,7,no
+706,29/11/2015,4:03:48,indian,female,moderate,39.0,yes,young,big,,casual,white,short_sleeve,purple,short,clothes,3,7,no
+707,29/11/2015,4:03:48,indian,female,fat,29.0,no,no_kids,big,pink,traditional,white,short_sleeve,white,long,clothes,4,9,no
+708,29/11/2015,4:03:48,chinese,female,moderate,34.0,no,no_kids,big,white,casual,white,short_sleeve,red,short,clothes,6,8,no
+709,29/11/2015,4:03:48,chinese,female,moderate,48.0,,no_kids,big,white,casual,white,short_sleeve,red,short,clothes,6,10,no
+710,29/11/2015,4:03:48,indian,female,fat,36.0,yes,young,small,,traditional,brown,short_sleeve,blue,long,clothes,5,8,no
+711,29/11/2015,4:03:48,indian,female,moderate,39.0,yes,young,big,red,casual,white,short_sleeve,purple,short,clothes,3,10,no
+712,29/11/2015,4:03:48,indian,female,moderate,42.0,yes,young,big,red,casual,white,short_sleeve,purple,short,clothes,3,8,no
+713,29/11/2015,4:03:48,indian,female,fat,40.0,yes,young,small,white,traditional,brown,short_sleeve,blue,long,clothes,5,9,no
+714,29/11/2015,4:03:48,indian,female,fat,37.0,yes,young,big,black,casual,black,short_sleeve,black,short,clothes,5,9,yes
+715,29/11/2015,4:03:48,foreigner ,,moderate,31.0,yes,young,big,blue,casual,pink,long sleeve,black,long,clothes,6,10,no
+716,29/11/2015,4:03:48,chinese,male,moderate,28.0,no,no_kids,big,red,casual,yellow,short_sleeve,black,long,clothes,6,8,yes
+717,29/11/2015,4:04:37,foreigner ,male,fat,46.0,no,no_kids,big,red,formal,blue,long sleeve,black,long,blankets,4,9,no
+718,29/11/2015,4:04:37,foreigner ,male,fat,30.0,no,no_kids,big,white,casual,green,short_sleeve,black,short,clothes,3,9,no
+719,29/11/2015,4:04:37,chinese,male,fat,53.0,no,no_kids,big,blue,casual,,short_sleeve,black,long,clothes,6,10,yes
+720,29/11/2015,4:04:37,foreigner ,,,55.0,no,no_kids,big,red,casual,white,long sleeve,black,long,clothes,5,8,no
+721,29/11/2015,4:04:37,foreigner ,male,,51.0,no,no_kids,big,white,traditional,grey,long sleeve,grey,long,clothes,4,7,no
+722,29/11/2015,4:04:37,indian,male,fat,,yes,toddler,big,white,formal,white,short_sleeve,grey,long,clothes,4,10,no
+723,29/11/2015,4:04:37,indian,male,fat,45.0,,young,big,purple,casual,red,short_sleeve,black,long,blankets,6,10,yes
+724,29/11/2015,4:04:37,chinese,male,moderate,45.0,no,no_kids,big,red,casual,white,short_sleeve,blue,short,clothes,3,10,yes
+725,29/11/2015,4:04:37,foreigner ,male,fat,32.0,no,no_kids,big,red,casual,white,short_sleeve,black,long,blankets,4,7,no
+726,29/11/2015,4:04:37,,female,fat,37.0,no,no_kids,big,white,formal,blue,long sleeve,black,long,blankets,4,8,yes
+727,29/11/2015,4:05:42,malay,female,,54.0,yes,young,big,brown,traditional,blue,long sleeve,blue,long,clothes,3,7,yes
+728,29/11/2015,4:05:42,chinese,female,moderate,35.0,no,no_kids,big,white,casual,red,short_sleeve,grey,long,clothes,5,10,no
+729,29/11/2015,4:05:42,indian,female,moderate,28.0,no,no_kids,big,red,casual,brown,long sleeve,black,long,blankets,3,7,yes
+730,29/11/2015,4:05:59,chinese,male,fat,38.0,no,no_kids,big,pink,casual,yellow,short_sleeve,black,,clothes,5,7,no
+731,29/11/2015,4:05:59,chinese,female,fat,52.0,no,no_kids,big,blue,casual,grey,long sleeve,blue,long,clothes,4,8,no
+732,29/11/2015,4:05:59,indian,male,fat,35.0,no,no_kids,big,pink,casual,,short_sleeve,blue_jeans,long,clothes,5,8,no
+733,29/11/2015,4:05:59,indian,male,fat,47.0,no,no_kids,big,pink,casual,white,short_sleeve,white,short,,5,7,no
+734,29/11/2015,4:05:59,indian,male,,35.0,no,no_kids,big,white,casual,black,short_sleeve,blue_jeans,long,clothes,6,7,no
+735,29/11/2015,4:06:04,foreigner ,female,moderate,37.0,no,no_kids,big,black,casual,brown,long sleeve,black,long,blankets,3,7,yes
+736,29/11/2015,4:06:04,chinese,male,,54.0,no,no_kids,big,red,casual,orange,short_sleeve,blue_jeans,long,clothes,4,8,no
+737,29/11/2015,4:06:04,indian,male,moderate,54.0,no,no_kids,big,red,formal,blue,long sleeve,black,long,clothes,3,8,no
+738,29/11/2015,4:06:04,indian,male,moderate,43.0,no,no_kids,big,green,casual,green,short_sleeve,brown,long,clothes,6,9,no
+739,29/11/2015,4:06:04,indian,male,fat,50.0,,no_kids,big,white,casual,,short_sleeve,grey,short,clothes,3,9,no
+740,29/11/2015,4:06:04,indian,male,fat,42.0,no,no_kids,big,green,formal,blue,short_sleeve,black,,clothes,4,10,no
+741,29/11/2015,4:06:04,indian,male,fat,53.0,no,no_kids,big,black,casual,green,short_sleeve,grey,long,blankets,4,8,no
+742,29/11/2015,4:06:19,indian,,,32.0,no,no_kids,big,red,casual,grey,short_sleeve,white,short,clothes,5,7,no
+743,29/11/2015,4:06:19,foreigner ,male,fat,51.0,yes,young,big,white,casual,red,short_sleeve,grey,short,blankets,3,8,no
+744,29/11/2015,4:06:19,indian,male,fat,46.0,yes,young,,white,casual,blue,short_sleeve,black,long,blankets,5,7,no
+745,29/11/2015,4:06:19,,female,,,yes,young,big,white,casual,green,short_sleeve,pink,short,clothes,4,7,no
+746,29/11/2015,4:06:19,chinese,female,moderate,40.0,yes,young,big,red,casual,black,short_sleeve,black,long,clothes,3,7,yes
+747,29/11/2015,4:06:19,foreigner ,female,moderate,46.0,yes,young,big,blue,casual,black,short_sleeve,black,,clothes,3,8,no
+748,29/11/2015,4:06:19,chinese,female,moderate,44.0,yes,young,big,white,casual,green,short_sleeve,pink,short,clothes,4,7,no
+749,29/11/2015,4:06:19,foreigner ,female,moderate,53.0,yes,young,,blue,casual,pink,long sleeve,black,long,clothes,3,10,no
+750,29/11/2015,4:06:19,chinese,male,thin,29.0,yes,toddler,big,red,casual,white,short_sleeve,white,short,clothes,5,9,yes
+751,29/11/2015,4:06:19,chinese,male,fat,46.0,no,no_kids,big,red,casual,blue,short_sleeve,green,,,3,9,yes
+752,29/11/2015,4:06:19,chinese,male,fat,41.0,no,no_kids,big,blue,casual,black,short_sleeve,white,short,,3,7,no
+753,29/11/2015,4:06:22,foreigner ,male,thin,34.0,no,no_kids,small,brown,casual,grey,short_sleeve,brown,short,clothes,5,7,no
+754,29/11/2015,4:06:22,chinese,female,moderate,35.0,no,no_kids,big,white,casual,white,short_sleeve,red,short,clothes,6,9,no
+755,29/11/2015,4:06:22,chinese,female,moderate,55.0,,no_kids,big,white,casual,white,short_sleeve,red,short,clothes,6,8,no
+756,29/11/2015,4:06:22,foreigner ,male,fat,,no,no_kids,big,white,casual,,short_sleeve,brown,short,blankets,3,7,no
+757,29/11/2015,4:06:22,chinese,male,fat,46.0,no,no_kids,big,blue,formal,white,short_sleeve,black,short,clothes,3,8,yes
+758,29/11/2015,4:06:22,chinese,female,moderate,52.0,no,no_kids,big,white,formal,white,short_sleeve,red,short,clothes,6,8,no
+759,29/11/2015,4:06:22,chinese,female,moderate,35.0,no,no_kids,big,white,formal,,short_sleeve,red,short,clothes,6,10,no
+760,29/11/2015,4:06:22,foreigner ,male,fat,,no,no_kids,big,,formal,green,,black,,clothes,3,10,no
+761,29/11/2015,4:06:22,chinese,male,fat,38.0,no,no_kids,big,,formal,yellow,,black,,clothes,5,9,no
+762,29/11/2015,4:07:46,chinese,male,,46.0,yes,toddler,big,red,formal,white,short_sleeve,white,short,clothes,5,9,yes
+763,29/11/2015,4:07:46,chinese,male,fat,33.0,no,no_kids,,red,,blue,short_sleeve,green,short,clothes,3,9,yes
+764,29/11/2015,4:07:46,chinese,male,,48.0,no,no_kids,big,blue,casual,black,short_sleeve,white,,clothes,3,7,no
+765,29/11/2015,4:07:46,foreigner ,male,thin,,no,no_kids,small,brown,formal,,short_sleeve,brown,short,clothes,5,10,no
+766,29/11/2015,4:07:46,chinese,female,thin,40.0,no,no_kids,big,white,formal,white,short_sleeve,red,short,clothes,6,8,no
+767,29/11/2015,4:07:46,chinese,,,54.0,no,,big,white,formal,white,,red,short,,6,8,no
+768,29/11/2015,4:07:46,foreigner ,male,thin,37.0,no,no_kids,big,white,formal,orange,short_sleeve,brown,,blankets,5,7,no
+769,29/11/2015,4:07:46,chinese,male,thin,40.0,,no_kids,,blue,formal,white,short_sleeve,black,short,,3,9,yes
+770,29/11/2015,4:07:46,chinese,female,thin,53.0,no,,big,white,,,,red,short,,6,8,no
+771,29/11/2015,4:07:46,chinese,female,thin,41.0,,no_kids,big,white,formal,white,short_sleeve,red,short,clothes,6,7,no
+772,29/11/2015,4:07:46,foreigner ,male,,42.0,,no_kids,big,white,casual,green,short_sleeve,black,short,,3,10,no
+773,29/11/2015,4:08:31,chinese,male,thin,36.0,no,no_kids,big,pink,formal,yellow,short_sleeve,black,short,blankets,5,8,no
+774,29/11/2015,4:08:31,malay,female,,30.0,yes,toddler,big,white,,,short_sleeve,red,short,blankets,6,9,no
+775,29/11/2015,4:08:31,malay,female,thin,29.0,yes,baby,big,white,formal,white,short_sleeve,red,short,blankets,6,8,no
+776,29/11/2015,4:08:31,malay,female,thin,44.0,yes,baby,big,white,formal,white,short_sleeve,red,,blankets,6,7,no
+777,29/11/2015,4:08:31,chinese,female,,55.0,yes,toddler,big,pink,casual,white,short_sleeve,red,short,blankets,3,10,no
+778,29/11/2015,4:08:31,malay,female,thin,40.0,,toddler,big,orange,casual,purple,,purple,short,blankets,4,10,no
+779,29/11/2015,4:08:31,malay,female,thin,50.0,yes,baby,big,blue,formal,orange,short_sleeve,red,short,blankets,4,10,no
+780,29/11/2015,4:08:31,malay,female,thin,42.0,yes,baby,big,black,formal,pink,short_sleeve,red,short,blankets,4,10,no
+781,29/11/2015,4:08:31,,female,,28.0,yes,baby,big,orange,,purple,,red,short,blankets,3,8,no
+782,29/11/2015,4:11:41,malay,female,,30.0,yes,baby,big,black,formal,orange,short_sleeve,red,short,clothes,6,8,no
+783,29/11/2015,4:11:41,malay,female,thin,45.0,yes,baby,big,red,formal,,short_sleeve,blue,short,,5,7,no
+784,29/11/2015,4:11:41,,female,thin,45.0,yes,baby,big,grey,,purple,short_sleeve,white,short,blankets,4,7,no
+785,29/11/2015,4:11:41,malay,female,,32.0,yes,toddler,big,black,casual,orange,short_sleeve,black,,blankets,3,7,no
+786,29/11/2015,4:11:41,malay,female,thin,33.0,yes,baby,big,black,formal,pink,short_sleeve,pink,long,blankets,6,7,yes
+787,29/11/2015,4:14:16,malay,male,,50.0,no,no_kids,big,orange,casual,green,short_sleeve,orange,short,clothes,4,9,no
+788,29/11/2015,8:16:36,malay,male,,38.0,yes,toddler,big,blue,casual,orange,short_sleeve,blue_jeans,long,clothes,6,10,no
+789,29/11/2015,8:56:00,chinese,male,thin,28.0,no,no_kids,big,black,casual,green,short_sleeve,black,long,clothes,3,8,no
+790,29/11/2015,9:46:09,malay,male,thin,46.0,no,no_kids,big,yellow,casual,grey,short_sleeve,blue_jeans,long,clothes,6,10,no
+791,09/12/2015,9:46:09,malay,male,moderate,34.0,no,no_kids,big,black,casual,green,short_sleeve,black,long,blankets,6,7,no
+792,09/12/2015,15:13:16,malay,female,thin,33.0,no,no_kids,small,white,casual,white,long sleeve,brown,long,clothes,3,7,no
+793,09/12/2015,15:21:37,malay,male,thin,37.0,no,no_kids,small,,casual,blue,short_sleeve,blue_jeans,long,blankets,6,10,no
+794,09/12/2015,16:20:06,malay,female,thin,42.0,,no_kids,small,pink,traditional,black,,black,long,clothes,5,8,no
+795,09/12/2015,16:50:56,,female,thin,45.0,,baby,big,blue,casual,red,long sleeve,blue_jeans,,,4,7,yes
+796,09/12/2015,17:21:26,malay,male,thin,38.0,yes,baby,big,blue,casual,green,short_sleeve,black,short,,6,8,no
+797,09/12/2015,17:22:37,malay,female,moderate,44.0,,young,big,black,casual,white,long sleeve,black,,,6,7,yes
+798,09/12/2015,17:24:32,malay,female,moderate,39.0,yes,,big,blue,traditional,green,,,long,,3,9,yes
+799,09/12/2015,17:37:56,malay,female,moderate,50.0,yes,young,big,,casual,white,short_sleeve,black,long,,3,9,no
+800,09/12/2015,18:43:46,malay,,moderate,36.0,,toddler,small,white,casual,white,short_sleeve,grey,long,,4,7,no
+801,09/12/2015,19:02:06,indian,male,moderate,42.0,no,no_kids,,grey,casual,white,short_sleeve,orange,short,,4,8,no
+802,09/12/2015,20:05:46,malay,female,thin,40.0,no,no_kids,small,white,casual,grey,long sleeve,,long,,3,8,no
+803,09/12/2015,20:05:46,malay,female,moderate,45.0,,no_kids,small,white,casual,red,long sleeve,black,long,clothes,3,10,no
+804,09/12/2015,20:33:01,malay,male,fat,34.0,no,no_kids,big,grey,casual,white,short_sleeve,black,long,blankets,3,7,no
+805,09/12/2015,20:37:01,malay,female,moderate,53.0,no,no_kids,big,purple,traditional,pink,long sleeve,pink,long,clothes,3,7,yes
+806,09/12/2015,20:42:57,indian,female,moderate,37.0,no,no_kids,big,green,traditional,brown,short_sleeve,black,long,clothes,6,10,no
+807,09/12/2015,20:43:20,malay,male,moderate,29.0,,no_kids,big,blue,casual,white,short_sleeve,black,,blankets,4,8,no
